@@ -1,13 +1,13 @@
 require 'httparty'
 
 # APIKeyNotSet is called when a client is instantiated without an api_key
-class APIKeyNotSet < StandardError; end
+class APIKeyNotSetError < StandardError; end
 
 module Octopart
   
   # api_key -  The API key to use
   def self.api_key
-    raise APIKeyNotSet if @api_key.nil?
+    raise APIKeyNotSetError if @api_key.nil?
     @api_key
   end
   
