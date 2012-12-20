@@ -7,7 +7,7 @@ class TestOctopartRuby < Test::Unit::TestCase
     should "require an api key" do
       Octopart.api_key = nil
       
-      assert_raise APIKeyNotSet do
+      assert_raise APIKeyNotSetError do
         Octopart::Client.new()
       end
     end
@@ -93,6 +93,14 @@ class TestOctopartRuby < Test::Unit::TestCase
       assert_equal 10, search["results"].count
     end
     
+    should "respond to error codes properly" do
+      FakeWeb.register_uri(:get, "http://octopart.com/api/v2/categories/get?id=4174&apikey=123456789", :body => fixture_file("category.json"), :status => ["404", "Not Found"])
+      
+      assert_raise APIResponseError do
+        @client.category(4174)
+      end
+    end
+    
   end
   
   context "Part API Methods" do
@@ -160,6 +168,14 @@ class TestOctopartRuby < Test::Unit::TestCase
       match = @client.match_part('texas instruments', 'SN74LS240N')
       
       assert_not_nil match
+    end
+    
+    should "respond to error codes properly" do
+      FakeWeb.register_uri(:get, "http://octopart.com/api/v2/parts/get?uid=39619421&apikey=123456789", :body => fixture_file("part.json"), :status => ["404", "Not Found"])
+      
+      assert_raise APIResponseError do
+        @client.part(39619421)
+      end
     end  
   
   end
@@ -196,6 +212,14 @@ class TestOctopartRuby < Test::Unit::TestCase
       assert_equal 2, attributes.count
       assert_equal "number", attributes.last["type"]
     end
+    
+    should "respond to error codes properly" do
+      FakeWeb.register_uri(:get, "http://octopart.com/api/v2/partattributes/get?fieldname=capacitance&apikey=123456789", :body => fixture_file("attribute.json"), :status => ["404", "Not Found"])
+      
+      assert_raise APIResponseError do
+        @client.part_attribute('capacitance')
+      end
+    end
   
   end
   
@@ -215,6 +239,14 @@ class TestOctopartRuby < Test::Unit::TestCase
       bom = @client.bom_match({"mpn" => "SN74LS240N", "manufacturer" => "Texas Instruments"})
       
       assert_not_nil bom
+    end
+    
+    should "respond to error codes properly" do
+      FakeWeb.register_uri(:get, "http://octopart.com/api/v2/bom/match?lines=%5B%7B%22mpn%22%3A%22SN74LS240N%22%2C%22manufacturer%22%3A%22Texas%20Instruments%22%7D%5D&apikey=123456789", :body => fixture_file("bom.json"), :status => ["404", "Not Found"])
+      
+      assert_raise APIResponseError do
+        @client.bom_match({"mpn" => "SN74LS240N", "manufacturer" => "Texas Instruments"})
+      end
     end
   
   end
