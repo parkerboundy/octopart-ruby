@@ -20,6 +20,7 @@ module Octopart
     base_uri 'http://octopart.com/api/v2'
     format :json
     
+    
     # Public: The API key for the client
     attr_reader :api_key
     
@@ -73,14 +74,13 @@ module Octopart
     # q - Query string
     # start - Ordinal position of first result. First position is 0. Default is 0
     # limit - Maximum number of results to return. Default is 10
-    # ancestor_id - If specified, limit search to all descendants of the specified ancestor
     #
     # Examples
     #
     #   search_categories('resistor')
-    #   # => search results
+    #   # => category hash
     #
-    # Returns the duplicated String.
+    # Returns a category hash
     def search_categories(query, start=0, limit=10)
       raise(ArgumentError, 'query must be a string > 2 characters and start/limit must be < 100') unless (query.is_a?(String) && query.length > 2 && start.between?(0, 100) &&limit.between?(0,100))    
       self.class.get('/categories/search', :query => {:q => query, :start => start, :limit => limit, :apikey => @api_key}).parsed_response
@@ -88,15 +88,14 @@ module Octopart
     
     # Public: Fetch a part object by its id
     #
-    # uid  - The String to be duplicated.
-    # count - The Integer number of times to duplicate the text.
+    # uid  - the id of a part object 
     #
     # Examples
     #
-    #   multiplex('Tom', 4)
-    #   # => 'TomTomTomTom'
+    #   part(39619421)
+    #   # => part hash
     #
-    # Returns the duplicated String.
+    # Returns a part hash
     def part(uid)
       if uid.is_a? Array
         parts(uid)
@@ -107,15 +106,14 @@ module Octopart
     
     # Public: Fetch multiple part objects by their ids
     #
-    # text  - The String to be duplicated.
-    # count - The Integer number of times to duplicate the text.
+    # uids - JSON encoded list of part object ids. Max number of ids is 100.
     #
     # Examples
     #
-    #   multiplex('Tom', 4)
-    #   # => 'TomTomTomTom'
+    #   parts([39619421,29035751,31119928])
+    #   # => parts hash
     #
-    # Returns the duplicated String.
+    # Returns a part hash
     def parts(uids)
       raise(ArgumentError, 'uids must be an array') unless uids.is_a?Array
       self.class.get('/parts/get_multi', :query => {:uids => "[#{uids.join(",")}]", :apikey => @api_key}).parsed_response
@@ -123,31 +121,41 @@ module Octopart
      
     # Public: Execute search over part objects
     #
-    # text  - The String to be duplicated.
-    # count - The Integer number of times to duplicate the text.
+    # query - Query string 
+    # start - Ordinal position of first result. First position is 0. Default is 0. Maximum is 1000.
+    # limit - Number of results to return. Default is 10. Maximum is 100.
     #
     # Examples
     #
-    #   multiplex('Tom', 4)
-    #   # => 'TomTomTomTom'
+    #   search_parts('capacitor')
+    #   # => part hash
     #
-    # Returns the duplicated String.
+    #   search_parts('capacitor', 50)
+    #   # => part hash
+    #
+    #   search_parts('capacitor', 100, 25)
+    #   # => part hash
+    # 
+    # Returns a part hash
     def search_parts(query, start=0, limit=10)
-      raise(ArgumentError, 'query must be a string > 2 characters and start/limit must be < 100') unless (query.is_a?(String) && query.length > 2 && start.between?(0, 100) &&limit.between?(0,100))
+      raise(ArgumentError, 'query must be a string > 2 characters, start < 1000, and limit must be < 100') unless (query.is_a?(String) && query.length > 2 && start.between?(0, 1000) &&limit.between?(0,100))
       self.class.get('/parts/search', :query => {:q => query, :start => start, :limit => limit, :apikey => @api_key}).parsed_response
     end
      
     # Public: Suggest a part search query string
     #
-    # text  - The String to be duplicated.
-    # count - The Integer number of times to duplicate the text.
+    # q - Query string. Minimum of 2 characters.
+    # limit - Maximum number of results to return. Default is 5. Maximum is 10.
     #
     # Examples
     #
-    #   multiplex('Tom', 4)
-    #   # => 'TomTomTomTom'
+    #   suggest_parts('sn74f')
+    #   # => parts hash
     #
-    # Returns the duplicated String.
+    #   suggest_parts('sn74f', 10)
+    #   # => parts hash
+    #
+    # Returns a part hash
     def suggest_parts(query, limit=5)
       raise(ArgumentError, 'query must be a string > 2 characters, and limit must be < 10') unless (query.is_a?(String) && query.length > 2 && limit.between?(0,10))
       self.class.get('/parts/suggest', :query => {:q => query.split(' ').join('+'), :limit => limit, :apikey => @api_key}).parsed_response
@@ -155,45 +163,44 @@ module Octopart
      
     # Public: Match (manufacturer,mpn) to part uids
     #
-    # text  - The String to be duplicated.
-    # count - The Integer number of times to duplicate the text.
+    # manufacturer_name - Manufacturer name
+    # mpn - Manufacturer part number
     #
     # Examples
     #
-    #   multiplex('Tom', 4)
-    #   # => 'TomTomTomTom'
+    #   match_part('Texas Instruments', 'SN74LS240N')
+    #   # => parts hash
     #
-    # Returns the duplicated String.
+    # Returns a part hash
     def match_part(manufacturer_name, mpn)
-      self.class.get('/parts/match', :query => {:manufacturer_name => manufacturer_name.split(' ').join('+'), :mpn => mpn, :apikey => @api_key}).parsed_response
+      self.class.get('/parts/match', :query => {:manufacturer_name => manufacturer_name, :mpn => mpn, :apikey => @api_key}).parsed_response
     end
     
-    # Public: Helper method for match_part(manufacturer_name, mpn)
+    # Public: Helper method for  match_part(manufacturer,mpn)
     #
-    # text  - The String to be duplicated.
-    # count - The Integer number of times to duplicate the text.
+    # manufacturer_name - Manufacturer name
+    # mpn - Manufacturer part number
     #
     # Examples
     #
-    #   multiplex('Tom', 4)
-    #   # => 'TomTomTomTom'
+    #   match_part('Texas Instruments', 'SN74LS240N')
+    #   # => parts hash
     #
-    # Returns the duplicated String. 
+    # Returns a part hash
     def match(manufacturer_name, mpn)
       match_part(manufacturer_name, mpn)
     end
     
     # Public: Fetch a partattribute object by its id
     #
-    # text  - The String to be duplicated.
-    # count - The Integer number of times to duplicate the text.
+    # fieldname - The fieldname of a partattribute object
     #
     # Examples
     #
-    #   multiplex('Tom', 4)
-    #   # => 'TomTomTomTom'
+    #   part_attribute('capacitance')
+    #   # => partattribute hash
     #
-    # Returns the duplicated String.
+    # Returns a partattribute hash
     def part_attribute(fieldname)
       if fieldname.is_a? Array
           part_attributes(fieldname)
@@ -204,31 +211,38 @@ module Octopart
     
     # Public: Fetch multiple partattribute objects by their ids
     #
-    # text  - The String to be duplicated.
-    # count - The Integer number of times to duplicate the text.
+    # fieldnames - The fieldnames of a partattribute objects
     #
     # Examples
     #
-    #   multiplex('Tom', 4)
-    #   # => 'TomTomTomTom'
+    #   part_attributes(['capacitance', 'resistance'])
+    #   # => partattribute hash
     #
-    # Returns the duplicated String.
+    # Returns a partattribute hash
     def part_attributes(fieldnames)
       raise(ArgumentError, 'fieldnames must be an array') unless fieldnames.is_a?Array
-      self.class.get('/partattributes/get_multi', :query => {:fieldnames => "[#{fieldnames.join(",")}]", :apikey => @api_key}).parsed_response
+      self.class.get('/partattributes/get_multi', :query => {:fieldnames => "["+fieldnames.map{|v| "\"#{v}\""}.join(',')+"]", :apikey => @api_key}).parsed_response
     end
      
     # Public: Match lines of a BOM to parts
     #
-    # text  - The String to be duplicated.
-    # count - The Integer number of times to duplicate the text.
+    # lines - hash made up of the following optional parameters:
+    #          q - Free form query 
+    #          mpn - MPN string 
+    #          manufacturer - Manufacturer name 
+    #          sku - Supplier SKU string 
+    #          supplier - Supplier name 
+    #          mpn_or_sku - Match on MPN or SKU 
+    #          start=0 - Ordinal position of first item 
+    #          limit=3 - Maximum number of items to return 
+    #          reference - Arbitrary reference string to differentiate results
     #
     # Examples
     #
-    #   multiplex('Tom', 4)
-    #   # => 'TomTomTomTom'
+    #   bom_match({"mpn_or_sku"=> "60K6871", "manufacturer" => "Texas Instruments"})
+    #   # => match hash
     #
-    # Returns the duplicated String.
+    # Returns a match hash
     def bom_match(lines)
       raise(ArgumentError, 'lines must be a hash') unless lines.is_a?(::Hash)
       self.class.get('/bom/match', :query => {:lines => "[{"+lines.map{|k,v| "\"#{k}\":\"#{v}\""}.join(',')+"}]", :apikey => @api_key}).parsed_response
@@ -236,20 +250,28 @@ module Octopart
     
     # Public: Helper method for searches
     #
-    # text  - The String to be duplicated.
-    # count - The Integer number of times to duplicate the text.
+    # type - String name of the type
+    # query - Query string 
+    # start - Ordinal position of first result. First position is 0. Default is 0. Maximum is 1000.
+    # limit - Number of results to return. Default is 10. Maximum is 100.
     #
     # Examples
     #
-    #   multiplex('Tom', 4)
-    #   # => 'TomTomTomTom'
+    #   search_parts('parts', 'capacitor')
+    #   # => part hash
     #
-    # Returns the duplicated String.
+    #   search_parts('categories', 'capacitor', 50)
+    #   # => part hash
+    #
+    #   search_parts('parts', 'capacitor', 100, 25)
+    #   # => part hash
+    # 
+    # Returns a part hash
     def search(type, query, start=0, limit=10)
       raise(ArgumentError, 'query must be a string > 2 characters and start/limit must be < 100') unless (query.is_a?(String) && query.length > 2 && start.between?(0, 100) &&limit.between?(0,100))
-      if type == 'part' || type == 'parts'
+      if type.downcase == 'part' || type.downcase == 'parts'
         search_parts(query, start, limit)
-      elsif type == 'category' || type == 'categories'
+      elsif type.downcase == 'category' || type.downcase == 'categories'
         search_categories(query, start, limit)
       else
         raise(ArgumentError, "type must be either 'parts' or 'categories'")

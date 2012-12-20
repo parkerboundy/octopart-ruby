@@ -156,7 +156,7 @@ class TestOctopartRuby < Test::Unit::TestCase
     end
     
     should "match part" do
-      FakeWeb.register_uri(:get, "http://octopart.com/api/v2/parts/match?manufacturer_name=texas%2Binstruments&mpn=SN74LS240N&apikey=123456789", :body => fixture_file("part_match.json"))
+      FakeWeb.register_uri(:get, "http://octopart.com/api/v2/parts/match?manufacturer_name=texas%20instruments&mpn=SN74LS240N&apikey=123456789", :body => fixture_file("part_match.json"))
       match = @client.match_part('texas instruments', 'SN74LS240N')
       
       assert_not_nil match
@@ -180,7 +180,7 @@ class TestOctopartRuby < Test::Unit::TestCase
     end
     
     should "get multiple part attributes with the part_attribute() method" do
-      FakeWeb.register_uri(:get, "http://octopart.com/api/v2/partattributes/get_multi?fieldnames=%5Bcapacitance%2Cresistance%5D&apikey=123456789", :body => fixture_file("attribute_multi.json"))
+      FakeWeb.register_uri(:get, "http://octopart.com/api/v2/partattributes/get_multi?fieldnames=%5B%22capacitance%22%2C%22resistance%22%5D&apikey=123456789", :body => fixture_file("attribute_multi.json"))
       attributes = @client.part_attribute(["capacitance","resistance"])
       
       assert_not_nil attributes
@@ -189,7 +189,7 @@ class TestOctopartRuby < Test::Unit::TestCase
     end
     
     should "get multiple part attributes" do
-      FakeWeb.register_uri(:get, "http://octopart.com/api/v2/partattributes/get_multi?fieldnames=%5Bcapacitance%2Cresistance%5D&apikey=123456789", :body => fixture_file("attribute_multi.json"))
+      FakeWeb.register_uri(:get, "http://octopart.com/api/v2/partattributes/get_multi?fieldnames=%5B%22capacitance%22%2C%22resistance%22%5D&apikey=123456789", :body => fixture_file("attribute_multi.json"))
       attributes = @client.part_attributes(["capacitance","resistance"])
       
       assert_not_nil attributes
@@ -226,7 +226,7 @@ class TestOctopartRuby < Test::Unit::TestCase
     end
     
     should "match part with match()" do
-      FakeWeb.register_uri(:get, "http://octopart.com/api/v2/parts/match?manufacturer_name=texas%2Binstruments&mpn=SN74LS240N&apikey=123456789", :body => fixture_file("part_match.json"))
+      FakeWeb.register_uri(:get, "http://octopart.com/api/v2/parts/match?manufacturer_name=texas%20instruments&mpn=SN74LS240N&apikey=123456789", :body => fixture_file("part_match.json"))
       match = @client.match('texas instruments', 'SN74LS240N')
       
       assert_not_nil match
