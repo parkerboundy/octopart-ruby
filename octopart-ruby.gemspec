@@ -27,6 +27,7 @@ Gem::Specification.new do |s|
     "examples/example.rb",
     "lib/octopart-ruby.rb",
     "lib/octopart/client.rb",
+    "octopart-ruby.gemspec",
     "test/fixtures/attribute.json",
     "test/fixtures/attribute_multi.json",
     "test/fixtures/bom.json",
