@@ -30,7 +30,6 @@ Rake::TestTask.new(:test) do |test|
   test.verbose = false
 end
 
-
 task :default => :test
 
 require 'yard'

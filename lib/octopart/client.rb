@@ -2,25 +2,19 @@
 # All methods are module methods and should be called on the Octopart module.
 #
 # @example
-#
 #   Octopart::Client.new('apikey')
-#   
 module Octopart
   
   # An Octopart.com API Client
   # 
-  #
   # @example
-  #
   #   Octopart::Client.new('apikey')
-  #
   class Client
     
     include HTTParty
     base_uri 'http://octopart.com/api/v2'
     format :json
-    
-    
+     
     # The API key for the client
     attr_reader :api_key
     
@@ -33,8 +27,7 @@ module Octopart
       @api_key ||= Octopart.api_key
 
     end
-    
-    
+
     # Fetch a category object by its id
     #
     # @param id [String] The id of a category object
@@ -50,7 +43,6 @@ module Octopart
         validate_response(response)
       end
     end
-    
     
     # Fetch multiple category objects by their ids
     #
@@ -240,10 +232,9 @@ module Octopart
     alias_method :match, :match_part
     
     protected
-    
-      def validate_response(response)
-        response.code == 200 ? response.parsed_response : raise(APIResponseError, response.code)
-      end
+    def validate_response(response)
+      response.code == 200 ? response.parsed_response : raise(APIResponseError, response.code)
+    end
     
   end
 
