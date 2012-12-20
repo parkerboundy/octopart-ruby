@@ -183,21 +183,6 @@ module Octopart
       validate_response(response)
     end
     
-    # Public: Helper method for  match_part(manufacturer,mpn)
-    #
-    # manufacturer_name - Manufacturer name
-    # mpn - Manufacturer part number
-    #
-    # Examples
-    #
-    #   match_part('Texas Instruments', 'SN74LS240N')
-    #   # => parts hash
-    #
-    # Returns a part hash
-    def match(manufacturer_name, mpn)
-      match_part(manufacturer_name, mpn)
-    end
-    
     # Public: Fetch a partattribute object by its id
     #
     # fieldname - The fieldname of a partattribute object
@@ -287,6 +272,8 @@ module Octopart
         raise(ArgumentError, "type must be either 'parts' or 'categories'")
       end
     end
+    
+    alias_method :match, :match_part
     
     protected
     
