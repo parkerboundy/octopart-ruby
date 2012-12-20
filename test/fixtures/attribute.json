@@ -1,0 +1,13 @@
+{
+    "__class__": "PartAttribute",
+    "displayname": "Capacitance",
+    "fieldname": "capacitance",
+    "metadata": {
+        "datatype": "float",
+        "unit": {
+            "name": "F",
+            "symbol": "F"
+        }
+    },
+    "type": "number"
+}

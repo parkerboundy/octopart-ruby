@@ -1,0 +1,20 @@
+{
+    "__class__": "Category",
+    "ancestor_ids": [
+        4161,
+        4165,
+        4173
+    ],
+    "children_ids": [],
+    "id": 4174,
+    "images": [
+        {
+            "url": "http://sigma.octopart.com/168957/image/single-components",
+            "url_40px": "http://sigma.octopart.com/543050/image/single-components",
+            "url_50px": "http://sigma.octopart.com/543051/image/single-components"
+        }
+    ],
+    "nodename": "Single Components",
+    "num_parts": 763778,
+    "parent_id": 4173
+}

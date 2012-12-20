@@ -1,0 +1,2912 @@
+[
+    {
+        "__class__": "Part",
+        "avg_avail": 195,
+        "avg_price": [
+            10.063405,
+            "USD"
+        ],
+        "category_ids": [
+            4165,
+            4972,
+            4173,
+            4952,
+            4920,
+            4180,
+            4181,
+            4182,
+            4183,
+            4184
+        ],
+        "datasheets": [
+            {
+                "score": 4,
+                "source_group": 1,
+                "url": "http://datasheet.octopart.com/H-22-6A-Bourns-datasheet-11608.pdf"
+            },
+            {
+                "score": 1,
+                "source_group": 2,
+                "url": "http://datasheet.octopart.com/H-22-6A-Bourns-datasheet-88649.pdf"
+            },
+            {
+                "score": 1,
+                "source_group": 2,
+                "url": "http://datasheet.octopart.com/H-22-6A-Bourns-datasheet-75005.pdf"
+            },
+            {
+                "score": 1,
+                "source_group": 2,
+                "url": "http://datasheet.octopart.com/H-22-6A-Bourns-datasheet-7268601.pdf"
+            },
+            {
+                "score": 1,
+                "source_group": 2,
+                "url": "http://datasheet.octopart.com/H-22-6A-Bourns-datasheet-9610662.pdf"
+            },
+            {
+                "score": 1,
+                "source_group": 1,
+                "url": "http://datasheet.octopart.com/H-22-6A-Bourns-datasheet-10295705.pdf"
+            },
+            {
+                "score": 1,
+                "source_group": 1,
+                "url": "http://datasheet.octopart.com/H-22-6A-Bourns-datasheet-11743463.pdf"
+            }
+        ],
+        "descriptions": [
+            {
+                "credit_domain": "element14.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=38187021",
+                "text": "COUNTING DIAL, 15 TURN; Shaft Diameter:6.35mm; No. of Turns:15; SVHC:No SVHC (19-Dec-2011); Accessory Type:Turns Counting Dial; For Use With:Precision Potentiometers / Rotating Devices upto 15 turns"
+            },
+            {
+                "credit_domain": "newark.com",
+                "credit_url": "http://octopart.com/click/vptrack?vpid=2912067",
+                "text": "Knobs, Turns counting; Accessory Type:Turns Counting Dial; Leaded Process Compatible:Yes; Knob/Dial Style:Round; No. of Turns:15; Shaft Diameter:0.25\" ;RoHS Compliant: Yes"
+            },
+            {
+                "credit_domain": "farnell.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=12217806",
+                "text": "COUNTING DIAL, 15 TURN; Accessory Type:Turns Counting Dial; For Use With:Precision Potentiometers / Rotating Devices upto 15 turns; SVHC:No SVHC (18-Jun-2010)"
+            },
+            {
+                "credit_domain": "alliedelec.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=46687832",
+                "text": "Dial;Turns-Counting, Analog; 15 Turns;50per Turn;Shaft Dia 0.25in"
+            },
+            {
+                "credit_domain": "jameco.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=2285145",
+                "text": "KNOB,0-20 TURNS COUNTING DIAL, ROTARY,WITH BRAKE,1/4\"SHAFT<A"
+            },
+            {
+                "credit_domain": "mouser.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=37627133",
+                "text": "Knobs/Dials  22mm 0-15 Turns CHROME 1/4 SHAFT"
+            },
+            {
+                "credit_domain": "verical.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=34929052",
+                "text": "Turns-Counting Dial, Up To 15 Turns"
+            },
+            {
+                "credit_domain": "e-sonic.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=46875161",
+                "text": "DIAL - 22MM, 0-15 TURNS COUNTING"
+            },
+            {
+                "credit_domain": "masterdistributors.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=40524638",
+                "text": "DIAL - 22mm, 0-15 TURNS COUNTING"
+            },
+            {
+                "credit_domain": "onlinecomponents.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=35092575",
+                "text": "DIAL - 22mm, 0-15 TURNS COUNTING"
+            },
+            {
+                "credit_domain": "digikey.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=1440602",
+                "text": "COUNTING DIAL W/CLICK BRAKE"
+            },
+            {
+                "credit_domain": "eurotech.co.uk",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=50074896",
+                "text": "COUNTING DIAL, 15 TURN"
+            },
+            {
+                "credit_domain": "conrad-uk.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=52768123",
+                "text": "COUNTER POTI H-22-6A"
+            }
+        ],
+        "detail_url": "http://octopart.com/h-22-6a-bourns-311",
+        "hyperlinks": {},
+        "images": [
+            {
+                "credit_domain": "onlinecomponents.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=35092575",
+                "url": "http://sigma.octopart.com/12762951/image/Bourns-H-22-6A.jpg",
+                "url_30px": "http://sigma.octopart.com/12762952/image/Bourns-H-22-6A.jpg",
+                "url_35px": "http://sigma.octopart.com/12762953/image/Bourns-H-22-6A.jpg",
+                "url_55px": "http://sigma.octopart.com/12762955/image/Bourns-H-22-6A.jpg",
+                "url_90px": "http://sigma.octopart.com/12762957/image/Bourns-H-22-6A.jpg"
+            },
+            {
+                "credit_domain": "newark.com",
+                "credit_url": "http://octopart.com/click/vptrack?vpid=2912067",
+                "url": "http://sigma.octopart.com/475962/image/Bourns-H-22-6A.gif",
+                "url_30px": "http://sigma.octopart.com/819934/image/Bourns-H-22-6A.gif",
+                "url_35px": "http://sigma.octopart.com/819935/image/Bourns-H-22-6A.gif",
+                "url_55px": "http://sigma.octopart.com/819936/image/Bourns-H-22-6A.gif",
+                "url_90px": "http://sigma.octopart.com/819937/image/Bourns-H-22-6A.gif"
+            },
+            {
+                "credit_domain": "jameco.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=2285145",
+                "url": "http://sigma.octopart.com/5260680/image/Bourns-H-22-6A.jpeg",
+                "url_30px": "http://sigma.octopart.com/5260681/image/Bourns-H-22-6A.jpeg",
+                "url_35px": "http://sigma.octopart.com/5260682/image/Bourns-H-22-6A.jpeg",
+                "url_55px": "http://sigma.octopart.com/5260683/image/Bourns-H-22-6A.jpeg",
+                "url_90px": "http://sigma.octopart.com/5260684/image/Bourns-H-22-6A.jpeg"
+            },
+            {
+                "credit_domain": "conrad-uk.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=52768123",
+                "url": "http://sigma.octopart.com/11723309/image/Bourns-H-22-6A.jpg",
+                "url_30px": "http://sigma.octopart.com/11723310/image/Bourns-H-22-6A.jpg",
+                "url_35px": "http://sigma.octopart.com/11723311/image/Bourns-H-22-6A.jpg",
+                "url_55px": "http://sigma.octopart.com/11723312/image/Bourns-H-22-6A.jpg",
+                "url_90px": "http://sigma.octopart.com/11723313/image/Bourns-H-22-6A.jpg"
+            },
+            {
+                "credit_domain": "alliedelec.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=46687832",
+                "url": "http://sigma.octopart.com/9790325/image/Bourns-H-22-6A.jpg",
+                "url_30px": "http://sigma.octopart.com/9790326/image/Bourns-H-22-6A.jpg",
+                "url_35px": "http://sigma.octopart.com/9790327/image/Bourns-H-22-6A.jpg",
+                "url_55px": "http://sigma.octopart.com/9790328/image/Bourns-H-22-6A.jpg",
+                "url_90px": "http://sigma.octopart.com/9790329/image/Bourns-H-22-6A.jpg"
+            },
+            {
+                "credit_domain": "digikey.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=1440602",
+                "url": "http://sigma.octopart.com/9325073/image/Bourns-H-22-6A.jpg",
+                "url_30px": "http://sigma.octopart.com/9325074/image/Bourns-H-22-6A.jpg",
+                "url_35px": "http://sigma.octopart.com/9325075/image/Bourns-H-22-6A.jpg",
+                "url_55px": "http://sigma.octopart.com/9325076/image/Bourns-H-22-6A.jpg",
+                "url_90px": "http://sigma.octopart.com/9325077/image/Bourns-H-22-6A.jpg"
+            },
+            {
+                "credit_domain": null,
+                "credit_url": null,
+                "url": "http://sigma.octopart.com/10110257/image/Bourns-H-22-6A.jpg",
+                "url_30px": "http://sigma.octopart.com/10110258/image/Bourns-H-22-6A.jpg",
+                "url_35px": "http://sigma.octopart.com/10110259/image/Bourns-H-22-6A.jpg",
+                "url_55px": "http://sigma.octopart.com/10110260/image/Bourns-H-22-6A.jpg",
+                "url_90px": "http://sigma.octopart.com/10110261/image/Bourns-H-22-6A.jpg"
+            },
+            {
+                "credit_domain": null,
+                "credit_url": null,
+                "url": "http://sigma.octopart.com/8460937/image/Bourns-H-22-6A.jpg",
+                "url_30px": "http://sigma.octopart.com/8460938/image/Bourns-H-22-6A.jpg",
+                "url_35px": "http://sigma.octopart.com/8460939/image/Bourns-H-22-6A.jpg",
+                "url_55px": "http://sigma.octopart.com/8460940/image/Bourns-H-22-6A.jpg",
+                "url_90px": "http://sigma.octopart.com/8460941/image/Bourns-H-22-6A.jpg"
+            }
+        ],
+        "manufacturer": {
+            "__class__": "Brand",
+            "displayname": "Bourns",
+            "homepage_url": "http://www.bourns.com",
+            "id": 59,
+            "is_verified": false
+        },
+        "market_status": "WARNING: Small Volume Availability (100 pieces)",
+        "mpn": "H-22-6A",
+        "num_authsuppliers": 17,
+        "num_suppliers": 24,
+        "offers": [
+            {
+                "avail": 871,
+                "buynow_url": "http://octopart.com/click/vptrack?vpid=2912067",
+                "clickthrough_url": "http://octopart.com/click/vptrack?vpid=2912067",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        10.72,
+                        "USD"
+                    ],
+                    [
+                        10,
+                        9.05,
+                        "USD"
+                    ],
+                    [
+                        25,
+                        8.69,
+                        "USD"
+                    ],
+                    [
+                        50,
+                        8.17,
+                        "USD"
+                    ],
+                    [
+                        100,
+                        7.65,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "16F9386",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Newark",
+                    "homepage_url": "http://www.newark.com",
+                    "hq_country": "US",
+                    "id": 2402
+                },
+                "uid": 291206763419,
+                "update_ts": "2012-12-17T13:18:21Z"
+            },
+            {
+                "avail": 127,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=37627133",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=37627133",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        8.65,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "652-H-22-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Mouser",
+                    "homepage_url": "http://www.mouser.com",
+                    "hq_country": "US",
+                    "id": 2401,
+                    "is_verified": false
+                },
+                "uid": 3762713353031,
+                "update_ts": "2012-12-15T08:31:03Z"
+            },
+            {
+                "avail": 70,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=34929052",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=34929052",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        10,
+                        10.0681,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "H-22-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Verical",
+                    "homepage_url": "http://www.verical.com",
+                    "hq_country": "US",
+                    "id": 2617
+                },
+                "uid": 3492905220120,
+                "update_ts": "2012-12-17T17:21:46Z"
+            },
+            {
+                "avail": 643,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=1440602",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=1440602",
+                "datecode": null,
+                "factory_lead_days": 109,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": 1,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": "BOX",
+                "prices": [
+                    [
+                        1,
+                        11.44,
+                        "USD"
+                    ],
+                    [
+                        10,
+                        10.4,
+                        "USD"
+                    ],
+                    [
+                        50,
+                        8.06,
+                        "USD"
+                    ],
+                    [
+                        100,
+                        7.41,
+                        "USD"
+                    ],
+                    [
+                        250,
+                        7.02,
+                        "USD"
+                    ],
+                    [
+                        500,
+                        6.76,
+                        "USD"
+                    ],
+                    [
+                        1000,
+                        6.448,
+                        "USD"
+                    ],
+                    [
+                        2500,
+                        6.37,
+                        "USD"
+                    ],
+                    [
+                        5000,
+                        6.24,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "H-22-6A-ND",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Digi-Key",
+                    "homepage_url": "http://www.digikey.com",
+                    "hq_country": "US",
+                    "id": 459,
+                    "is_verified": false
+                },
+                "uid": 144060262025,
+                "update_ts": "2012-12-16T10:10:02Z"
+            },
+            {
+                "avail": 150,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=14550162",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=14550162",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        9.11,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "H-22-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Arrow",
+                    "homepage_url": "http://www.arrownac.com/",
+                    "hq_country": "US",
+                    "id": 1106,
+                    "is_verified": false
+                },
+                "uid": 1455016239292,
+                "update_ts": "2012-12-17T21:13:09Z"
+            },
+            {
+                "avail": 160,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=46875161",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=46875161",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [],
+                "sendrfq_url": null,
+                "sku": "H-22-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Electro Sonic",
+                    "homepage_url": "http://www.e-sonic.com/",
+                    "hq_country": "CA",
+                    "id": 4042
+                },
+                "uid": 4687516147368,
+                "update_ts": "2012-12-17T16:43:57Z"
+            },
+            {
+                "avail": 39,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=35092575",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=35092575",
+                "datecode": null,
+                "factory_lead_days": 13,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": 1,
+                "on_order_eta": "2012-12-17T00:00:00Z",
+                "on_order_quantity": 100,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        8.51,
+                        "USD"
+                    ],
+                    [
+                        10,
+                        8.11,
+                        "USD"
+                    ],
+                    [
+                        30,
+                        7.96,
+                        "USD"
+                    ],
+                    [
+                        60,
+                        7.41,
+                        "USD"
+                    ],
+                    [
+                        100,
+                        7.22,
+                        "USD"
+                    ],
+                    [
+                        500,
+                        6.86,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "H226A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Onlinecomponents.com",
+                    "homepage_url": "http://www.onlinecomponents.com",
+                    "hq_country": "US",
+                    "id": 2429
+                },
+                "uid": 3509257502890,
+                "update_ts": "2012-12-03T13:08:25Z"
+            },
+            {
+                "avail": 380,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=38187021",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=38187021",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        12.95,
+                        "USD"
+                    ],
+                    [
+                        10,
+                        9.98,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "1456195",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "element14 APAC",
+                    "homepage_url": "http://www.element14.com/",
+                    "hq_country": "CN",
+                    "id": 3702
+                },
+                "uid": 3818702143629,
+                "update_ts": "2012-12-17T07:35:12Z"
+            },
+            {
+                "avail": 190,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=61224045",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=61224045",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        6,
+                        10.77,
+                        "USD"
+                    ],
+                    [
+                        49,
+                        8.84,
+                        "USD"
+                    ],
+                    [
+                        97,
+                        7.54,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "BNSH226A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Avnet Express Europe",
+                    "homepage_url": "http://avnetexpress.avnet.com/store/em/EMController?storeId=500201&action=home&region=EMEA&catalogId=500201&langId=-1",
+                    "hq_country": "EU",
+                    "id": 5347
+                },
+                "uid": 6122404527952,
+                "update_ts": "2012-12-17T12:29:24Z"
+            },
+            {
+                "avail": 216,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=52768123",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=52768123",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        30.82,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "447231",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Conrad UK",
+                    "homepage_url": "http://www.conrad-uk.com",
+                    "hq_country": "GB",
+                    "id": 4652
+                },
+                "uid": 5276812302606,
+                "update_ts": "2012-07-31T13:04:33Z"
+            },
+            {
+                "avail": 131,
+                "buynow_url": null,
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=40524638",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        8.51,
+                        "USD"
+                    ],
+                    [
+                        10,
+                        8.11,
+                        "USD"
+                    ],
+                    [
+                        30,
+                        7.96,
+                        "USD"
+                    ],
+                    [
+                        60,
+                        7.41,
+                        "USD"
+                    ],
+                    [
+                        100,
+                        7.22,
+                        "USD"
+                    ],
+                    [
+                        500,
+                        6.86,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "H226A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Master Distributors",
+                    "homepage_url": "http://masterdistributors.com/",
+                    "hq_country": "US",
+                    "id": 2591,
+                    "is_verified": false
+                },
+                "uid": 4052463847026,
+                "update_ts": "2012-12-17T09:35:55Z"
+            },
+            {
+                "avail": 72,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=49550629",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=49550629",
+                "datecode": null,
+                "factory_lead_days": 5,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": 10,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        10,
+                        9.85,
+                        "USD"
+                    ],
+                    [
+                        30,
+                        9.65,
+                        "USD"
+                    ],
+                    [
+                        50,
+                        8.35,
+                        "USD"
+                    ],
+                    [
+                        100,
+                        8.07,
+                        "USD"
+                    ],
+                    [
+                        200,
+                        7.61,
+                        "USD"
+                    ],
+                    [
+                        500,
+                        6.67,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "BOUR-0023476",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Chip One Stop",
+                    "homepage_url": "http://chip1stop.com/",
+                    "hq_country": "JP",
+                    "id": 4089,
+                    "is_verified": false
+                },
+                "uid": 4955062932193,
+                "update_ts": "2012-12-17T09:30:46Z"
+            },
+            {
+                "avail": 194,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=12217806",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=12217806",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [],
+                "sendrfq_url": null,
+                "sku": "1456195",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Farnell",
+                    "homepage_url": "http://www.farnell.com/",
+                    "hq_country": "GB",
+                    "id": 819,
+                    "is_verified": false
+                },
+                "uid": 1221780646632,
+                "update_ts": "2012-12-17T06:04:32Z"
+            },
+            {
+                "avail": 79,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=49277898",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=49277898",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [],
+                "sendrfq_url": null,
+                "sku": "7377701",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "RS Components",
+                    "homepage_url": "http://www.rs-components.com",
+                    "hq_country": "GB",
+                    "id": 3261,
+                    "is_verified": false
+                },
+                "uid": 4927789839892,
+                "update_ts": "2012-12-17T10:12:58Z"
+            },
+            {
+                "avail": 158,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=2285145",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=2285145",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": false,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        10,
+                        12.19,
+                        "USD"
+                    ],
+                    [
+                        50,
+                        11.59,
+                        "USD"
+                    ],
+                    [
+                        100,
+                        10.55,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "776079",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Jameco",
+                    "homepage_url": "http://www.jameco.com",
+                    "hq_country": "US",
+                    "id": 2410,
+                    "is_verified": false
+                },
+                "uid": 228514553059,
+                "update_ts": "2012-12-14T19:34:09Z"
+            },
+            {
+                "avail": -4,
+                "buynow_url": null,
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=23561064",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": false,
+                "is_brokered": true,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [],
+                "sendrfq_url": null,
+                "sku": "H-22-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "XS Micro",
+                    "homepage_url": "http://www.xsmicro.com",
+                    "hq_country": "US",
+                    "id": 3373
+                },
+                "uid": 2356106404480,
+                "update_ts": "2012-10-01T20:17:42Z"
+            },
+            {
+                "avail": -4,
+                "buynow_url": null,
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=47420719",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": false,
+                "is_brokered": true,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [],
+                "sendrfq_url": null,
+                "sku": "H-22-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Touchstone Systems",
+                    "homepage_url": "http://www.touchstone-sys.com/",
+                    "hq_country": "US",
+                    "id": 3490
+                },
+                "uid": 4742071944495,
+                "update_ts": "2012-03-30T15:17:47Z"
+            },
+            {
+                "avail": -4,
+                "buynow_url": null,
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=55787839",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": false,
+                "is_brokered": true,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [],
+                "sendrfq_url": null,
+                "sku": "H-22-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "ComponentsMAX",
+                    "homepage_url": "http://componentsmax.com/",
+                    "hq_country": "US",
+                    "id": 3860
+                },
+                "uid": 5578783901780,
+                "update_ts": "2012-10-02T06:23:36Z"
+            },
+            {
+                "avail": 4,
+                "buynow_url": null,
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=46413411",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": false,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [],
+                "sendrfq_url": "http://octopart.com/rfq/generate?ppid=311&vpid=46413411",
+                "sku": "H-22-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "4 Star Electronics",
+                    "homepage_url": "http://www.4starelectronics.com",
+                    "hq_country": "US",
+                    "id": 4025
+                },
+                "uid": 4641341125101,
+                "update_ts": "2012-12-17T12:02:13Z"
+            },
+            {
+                "avail": 40,
+                "buynow_url": null,
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=50074896",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": false,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [],
+                "sendrfq_url": null,
+                "sku": "H-22-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Euro-Tech",
+                    "homepage_url": "http://www.eurotech.co.uk",
+                    "hq_country": "GB",
+                    "id": 4462
+                },
+                "uid": 5007489609220,
+                "update_ts": "2012-12-17T15:59:46Z"
+            },
+            {
+                "avail": -4,
+                "buynow_url": null,
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=41332519",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": false,
+                "is_brokered": true,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [],
+                "sendrfq_url": null,
+                "sku": "H226A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Sierra IC",
+                    "homepage_url": "http://www.sierraic.com",
+                    "hq_country": "US",
+                    "id": 2425
+                },
+                "uid": 4133251936554,
+                "update_ts": "2012-12-14T21:40:57Z"
+            },
+            {
+                "avail": -4,
+                "buynow_url": null,
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=58063720",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": false,
+                "is_brokered": true,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [],
+                "sendrfq_url": null,
+                "sku": "H-22-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Net Semi",
+                    "homepage_url": "http://netsemi.com/",
+                    "hq_country": "US",
+                    "id": 3590
+                },
+                "uid": 5806372053085,
+                "update_ts": "2012-12-04T00:41:19Z"
+            }
+        ],
+        "refer_id": null,
+        "short_description": "Dial; Turns-Counting, Analog; 15 Turns; 50per Turn; Shaft Dia 0.25in",
+        "specs": [
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "Weight",
+                    "fieldname": "weight",
+                    "metadata": {
+                        "datatype": "float",
+                        "unit": {
+                            "name": "g",
+                            "symbol": "g"
+                        }
+                    },
+                    "type": "number"
+                },
+                "values": [
+                    {
+                        "uncertainty_minus": null,
+                        "uncertainty_plus": null,
+                        "value": 15.0
+                    }
+                ]
+            },
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "Color",
+                    "fieldname": "color",
+                    "metadata": null,
+                    "type": "text"
+                },
+                "values": [
+                    "Transparent"
+                ]
+            },
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "Material",
+                    "fieldname": "material",
+                    "metadata": null,
+                    "type": "text"
+                },
+                "values": [
+                    "Metal"
+                ]
+            },
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "Lead-Free Status",
+                    "fieldname": "lead_free_status",
+                    "metadata": null,
+                    "type": "text"
+                },
+                "values": [
+                    "Lead Free"
+                ]
+            },
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "RoHS",
+                    "fieldname": "rohs",
+                    "metadata": null,
+                    "type": "text"
+                },
+                "values": [
+                    "Compliant"
+                ]
+            },
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "Size-Diameter",
+                    "fieldname": "size_diameter",
+                    "metadata": {
+                        "datatype": "float",
+                        "unit": {
+                            "name": "m",
+                            "symbol": "m"
+                        }
+                    },
+                    "type": "number"
+                },
+                "values": [
+                    {
+                        "uncertainty_minus": null,
+                        "uncertainty_plus": null,
+                        "value": 0.0222
+                    }
+                ]
+            }
+        ],
+        "uid": 31119928
+    },
+    {
+        "__class__": "Part",
+        "avg_avail": 180,
+        "avg_price": [
+            19.237164999999997,
+            "USD"
+        ],
+        "category_ids": [
+            4165,
+            4972,
+            4173,
+            4952,
+            4920,
+            4180,
+            4181,
+            4182,
+            4183,
+            4184
+        ],
+        "datasheets": [
+            {
+                "score": 2,
+                "source_group": 1,
+                "url": "http://datasheet.octopart.com/H-46-6A-Bourns-datasheet-12570.pdf"
+            },
+            {
+                "score": 2,
+                "source_group": 1,
+                "url": "http://datasheet.octopart.com/H-46-6A-Bourns-datasheet-8474595.pdf"
+            },
+            {
+                "score": 1,
+                "source_group": 2,
+                "url": "http://datasheet.octopart.com/H-46-6A-Bourns-datasheet-96481.pdf"
+            },
+            {
+                "score": 1,
+                "source_group": 2,
+                "url": "http://datasheet.octopart.com/H-46-6A-Bourns-datasheet-99227.pdf"
+            },
+            {
+                "score": 1,
+                "source_group": 2,
+                "url": "http://datasheet.octopart.com/H-46-6A-Bourns-datasheet-10859733.pdf"
+            }
+        ],
+        "descriptions": [
+            {
+                "credit_domain": "element14.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=38187209",
+                "text": "COUNTING DIAL, 15 TURNS, 6.35mm; Shaft Diameter:6.35mm; No. of Turns:20; Dial Composition:Satin chrome; Accessory Type:Turns Counting Dial; For Use With:Bourns Precision Potentiometers or other Rotating Devices"
+            },
+            {
+                "credit_domain": "newark.com",
+                "credit_url": "http://octopart.com/click/vptrack?vpid=3021474",
+                "text": "Knobs, Turns counting; Accessory Type:Turns Counting Dial; Leaded Process Compatible:Yes; Knob/Dial Style:Round; No. of Turns:20; Shaft Diameter:0.25\" ;RoHS Compliant: Yes"
+            },
+            {
+                "credit_domain": "alliedelec.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=46666658",
+                "text": "Dial;Turns-Counting, Analog; 20 Turns;100per Turn;Shaft Dia 0.25in"
+            },
+            {
+                "credit_domain": "mouser.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=37615378",
+                "text": "Knobs/Dials  46mm Body 1/4 Shaft"
+            },
+            {
+                "credit_domain": "onlinecomponents.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=35092328",
+                "text": "DIAL - 46mm, 0-20 TURNS COUNTING"
+            },
+            {
+                "credit_domain": "e-sonic.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=46875163",
+                "text": "DIAL - 46MM, 0-20 TURNS COUNTING"
+            },
+            {
+                "credit_domain": "masterdistributors.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=40524641",
+                "text": "DIAL - 46mm, 0-20 TURNS COUNTING"
+            },
+            {
+                "credit_domain": "digikey.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=1855320",
+                "text": "COUNTING DIAL 0-20 TURNS"
+            },
+            {
+                "credit_domain": "conrad-uk.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=52776096",
+                "text": "COUNTER POTI H-46-6A"
+            }
+        ],
+        "detail_url": "http://octopart.com/h-46-6a-bourns-396",
+        "hyperlinks": {},
+        "images": [
+            {
+                "credit_domain": "conrad-uk.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=52776096",
+                "url": "http://sigma.octopart.com/11759440/image/Bourns-H-46-6A.jpg",
+                "url_30px": "http://sigma.octopart.com/11759441/image/Bourns-H-46-6A.jpg",
+                "url_35px": "http://sigma.octopart.com/11759442/image/Bourns-H-46-6A.jpg",
+                "url_55px": "http://sigma.octopart.com/11759443/image/Bourns-H-46-6A.jpg",
+                "url_90px": "http://sigma.octopart.com/11759444/image/Bourns-H-46-6A.jpg"
+            },
+            {
+                "credit_domain": "newark.com",
+                "credit_url": "http://octopart.com/click/vptrack?vpid=3021474",
+                "url": "http://sigma.octopart.com/475962/image/Bourns-H-46-6A.gif",
+                "url_30px": "http://sigma.octopart.com/819934/image/Bourns-H-46-6A.gif",
+                "url_35px": "http://sigma.octopart.com/819935/image/Bourns-H-46-6A.gif",
+                "url_55px": "http://sigma.octopart.com/819936/image/Bourns-H-46-6A.gif",
+                "url_90px": "http://sigma.octopart.com/819937/image/Bourns-H-46-6A.gif"
+            },
+            {
+                "credit_domain": "alliedelec.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=46666658",
+                "url": "http://sigma.octopart.com/9712675/image/Bourns-H-46-6A.jpg",
+                "url_30px": "http://sigma.octopart.com/9712676/image/Bourns-H-46-6A.jpg",
+                "url_35px": "http://sigma.octopart.com/9712677/image/Bourns-H-46-6A.jpg",
+                "url_55px": "http://sigma.octopart.com/9712678/image/Bourns-H-46-6A.jpg",
+                "url_90px": "http://sigma.octopart.com/9712679/image/Bourns-H-46-6A.jpg"
+            },
+            {
+                "credit_domain": "onlinecomponents.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=35092328",
+                "url": "http://sigma.octopart.com/12954668/image/Bourns-H-46-6A.jpg",
+                "url_30px": "http://sigma.octopart.com/12954671/image/Bourns-H-46-6A.jpg",
+                "url_35px": "http://sigma.octopart.com/12954672/image/Bourns-H-46-6A.jpg",
+                "url_55px": "http://sigma.octopart.com/12954673/image/Bourns-H-46-6A.jpg",
+                "url_90px": "http://sigma.octopart.com/12954674/image/Bourns-H-46-6A.jpg"
+            },
+            {
+                "credit_domain": "digikey.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=1855320",
+                "url": "http://sigma.octopart.com/9315130/image/Bourns-H-46-6A.jpg",
+                "url_30px": "http://sigma.octopart.com/9315131/image/Bourns-H-46-6A.jpg",
+                "url_35px": "http://sigma.octopart.com/9315132/image/Bourns-H-46-6A.jpg",
+                "url_55px": "http://sigma.octopart.com/9315133/image/Bourns-H-46-6A.jpg",
+                "url_90px": "http://sigma.octopart.com/9315134/image/Bourns-H-46-6A.jpg"
+            },
+            {
+                "credit_domain": null,
+                "credit_url": null,
+                "url": "http://sigma.octopart.com/8460937/image/Bourns-H-46-6A.jpg",
+                "url_30px": "http://sigma.octopart.com/8460938/image/Bourns-H-46-6A.jpg",
+                "url_35px": "http://sigma.octopart.com/8460939/image/Bourns-H-46-6A.jpg",
+                "url_55px": "http://sigma.octopart.com/8460940/image/Bourns-H-46-6A.jpg",
+                "url_90px": "http://sigma.octopart.com/8460941/image/Bourns-H-46-6A.jpg"
+            },
+            {
+                "credit_domain": null,
+                "credit_url": null,
+                "url": "http://sigma.octopart.com/10110257/image/Bourns-H-46-6A.jpg",
+                "url_30px": "http://sigma.octopart.com/10110258/image/Bourns-H-46-6A.jpg",
+                "url_35px": "http://sigma.octopart.com/10110259/image/Bourns-H-46-6A.jpg",
+                "url_55px": "http://sigma.octopart.com/10110260/image/Bourns-H-46-6A.jpg",
+                "url_90px": "http://sigma.octopart.com/10110261/image/Bourns-H-46-6A.jpg"
+            }
+        ],
+        "manufacturer": {
+            "__class__": "Brand",
+            "displayname": "Bourns",
+            "homepage_url": "http://www.bourns.com",
+            "id": 59,
+            "is_verified": false
+        },
+        "market_status": "WARNING: Small Volume Availability (100 pieces)",
+        "mpn": "H-46-6A",
+        "num_authsuppliers": 15,
+        "num_suppliers": 22,
+        "offers": [
+            {
+                "avail": 669,
+                "buynow_url": "http://octopart.com/click/vptrack?vpid=3021474",
+                "clickthrough_url": "http://octopart.com/click/vptrack?vpid=3021474",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        21.16,
+                        "USD"
+                    ],
+                    [
+                        10,
+                        17.87,
+                        "USD"
+                    ],
+                    [
+                        25,
+                        17.15,
+                        "USD"
+                    ],
+                    [
+                        50,
+                        16.13,
+                        "USD"
+                    ],
+                    [
+                        100,
+                        15.1,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "70B9808",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Newark",
+                    "homepage_url": "http://www.newark.com",
+                    "hq_country": "US",
+                    "id": 2402
+                },
+                "uid": 302147416129,
+                "update_ts": "2012-12-17T13:18:21Z"
+            },
+            {
+                "avail": 83,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=37615378",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=37615378",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        17.11,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "652-H-46-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Mouser",
+                    "homepage_url": "http://www.mouser.com",
+                    "hq_country": "US",
+                    "id": 2401,
+                    "is_verified": false
+                },
+                "uid": 3761537806288,
+                "update_ts": "2012-12-15T08:31:03Z"
+            },
+            {
+                "avail": 36,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=5103908",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=5103908",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        16.9,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "H-46-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "RS Electronics",
+                    "homepage_url": "http://www.rselectronics.com/",
+                    "hq_country": "US",
+                    "id": 2421
+                },
+                "uid": 510390822952,
+                "update_ts": "2012-12-17T12:01:11Z"
+            },
+            {
+                "avail": 715,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=38187209",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=38187209",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        22.37,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "1693062",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "element14 APAC",
+                    "homepage_url": "http://www.element14.com/",
+                    "hq_country": "CN",
+                    "id": 3702
+                },
+                "uid": 3818720921130,
+                "update_ts": "2012-12-17T07:35:12Z"
+            },
+            {
+                "avail": 385,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=35092328",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=35092328",
+                "datecode": null,
+                "factory_lead_days": 13,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": 1,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        16.96,
+                        "USD"
+                    ],
+                    [
+                        5,
+                        16.72,
+                        "USD"
+                    ],
+                    [
+                        10,
+                        16.17,
+                        "USD"
+                    ],
+                    [
+                        30,
+                        15.31,
+                        "USD"
+                    ],
+                    [
+                        60,
+                        14.68,
+                        "USD"
+                    ],
+                    [
+                        100,
+                        14.23,
+                        "USD"
+                    ],
+                    [
+                        500,
+                        13.53,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "H466A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Onlinecomponents.com",
+                    "homepage_url": "http://www.onlinecomponents.com",
+                    "hq_country": "US",
+                    "id": 2429
+                },
+                "uid": 3509232811273,
+                "update_ts": "2012-12-03T13:08:25Z"
+            },
+            {
+                "avail": 171,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=46875163",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=46875163",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [],
+                "sendrfq_url": null,
+                "sku": "H-46-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Electro Sonic",
+                    "homepage_url": "http://www.e-sonic.com/",
+                    "hq_country": "CA",
+                    "id": 4042
+                },
+                "uid": 4687516303721,
+                "update_ts": "2012-12-17T16:43:57Z"
+            },
+            {
+                "avail": 0,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=14550167",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=14550167",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        17.88,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "H-46-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Arrow",
+                    "homepage_url": "http://www.arrownac.com/",
+                    "hq_country": "US",
+                    "id": 1106,
+                    "is_verified": false
+                },
+                "uid": 1455016753044,
+                "update_ts": "2012-12-17T21:13:09Z"
+            },
+            {
+                "avail": 16,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=1855320",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=1855320",
+                "datecode": null,
+                "factory_lead_days": 107,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": 1,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": "BOX",
+                "prices": [
+                    [
+                        1,
+                        19.51,
+                        "USD"
+                    ],
+                    [
+                        10,
+                        17.048,
+                        "USD"
+                    ],
+                    [
+                        50,
+                        14.6348,
+                        "USD"
+                    ],
+                    [
+                        100,
+                        14.1213,
+                        "USD"
+                    ],
+                    [
+                        250,
+                        13.351,
+                        "USD"
+                    ],
+                    [
+                        500,
+                        12.8375,
+                        "USD"
+                    ],
+                    [
+                        1000,
+                        12.324,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "H-46-6A-ND",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Digi-Key",
+                    "homepage_url": "http://www.digikey.com",
+                    "hq_country": "US",
+                    "id": 459,
+                    "is_verified": false
+                },
+                "uid": 185532039513,
+                "update_ts": "2012-12-16T10:10:02Z"
+            },
+            {
+                "avail": 338,
+                "buynow_url": null,
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=40524641",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        16.96,
+                        "USD"
+                    ],
+                    [
+                        5,
+                        16.72,
+                        "USD"
+                    ],
+                    [
+                        10,
+                        16.17,
+                        "USD"
+                    ],
+                    [
+                        30,
+                        15.31,
+                        "USD"
+                    ],
+                    [
+                        60,
+                        14.68,
+                        "USD"
+                    ],
+                    [
+                        100,
+                        14.23,
+                        "USD"
+                    ],
+                    [
+                        500,
+                        13.53,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "H466A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Master Distributors",
+                    "homepage_url": "http://masterdistributors.com/",
+                    "hq_country": "US",
+                    "id": 2591,
+                    "is_verified": false
+                },
+                "uid": 4052464108205,
+                "update_ts": "2012-12-17T09:35:55Z"
+            },
+            {
+                "avail": 0,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=61224056",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=61224056",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        3,
+                        21.3905,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "BNSH466A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Avnet Express Europe",
+                    "homepage_url": "http://avnetexpress.avnet.com/store/em/EMController?storeId=500201&action=home&region=EMEA&catalogId=500201&langId=-1",
+                    "hq_country": "EU",
+                    "id": 5347
+                },
+                "uid": 6122405640663,
+                "update_ts": "2012-12-17T12:29:24Z"
+            },
+            {
+                "avail": 25,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=52776096",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=52776096",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        60.87,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "447232",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Conrad UK",
+                    "homepage_url": "http://www.conrad-uk.com",
+                    "hq_country": "GB",
+                    "id": 4652
+                },
+                "uid": 5277609641910,
+                "update_ts": "2012-07-31T13:04:33Z"
+            },
+            {
+                "avail": 9,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=49277899",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=49277899",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [],
+                "sendrfq_url": null,
+                "sku": "7377710",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "RS Components",
+                    "homepage_url": "http://www.rs-components.com",
+                    "hq_country": "GB",
+                    "id": 3261,
+                    "is_verified": false
+                },
+                "uid": 4927789902723,
+                "update_ts": "2012-12-17T10:12:58Z"
+            },
+            {
+                "avail": 4,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=51460095",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=51460095",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": false,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        20.0,
+                        "USD"
+                    ],
+                    [
+                        4,
+                        15.0,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "H-46-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Quest",
+                    "homepage_url": "http://www.questcomp.com",
+                    "hq_country": "US",
+                    "id": 2412
+                },
+                "uid": 5146009511733,
+                "update_ts": "2012-12-17T22:02:03Z"
+            },
+            {
+                "avail": 7,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=7466294",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=7466294",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": false,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [],
+                "sendrfq_url": null,
+                "sku": "H-46-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Ralph's Elec.",
+                    "homepage_url": "http://www.ralphselectronics.com",
+                    "hq_country": "US",
+                    "id": 2426,
+                    "is_verified": false
+                },
+                "uid": 746629447381,
+                "update_ts": "2012-12-17T16:31:58Z"
+            },
+            {
+                "avail": -4,
+                "buynow_url": null,
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=23556769",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": false,
+                "is_brokered": true,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [],
+                "sendrfq_url": null,
+                "sku": "H-46-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "XS Micro",
+                    "homepage_url": "http://www.xsmicro.com",
+                    "hq_country": "US",
+                    "id": 3373
+                },
+                "uid": 2355676951397,
+                "update_ts": "2012-10-01T20:17:42Z"
+            },
+            {
+                "avail": -4,
+                "buynow_url": null,
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=47420720",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": false,
+                "is_brokered": true,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [],
+                "sendrfq_url": null,
+                "sku": "H-46-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Touchstone Systems",
+                    "homepage_url": "http://www.touchstone-sys.com/",
+                    "hq_country": "US",
+                    "id": 3490
+                },
+                "uid": 4742072029110,
+                "update_ts": "2012-03-30T15:17:47Z"
+            },
+            {
+                "avail": -4,
+                "buynow_url": null,
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=55923387",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": false,
+                "is_brokered": true,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [],
+                "sendrfq_url": null,
+                "sku": "H-46-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "ComponentsMAX",
+                    "homepage_url": "http://componentsmax.com/",
+                    "hq_country": "US",
+                    "id": 3860
+                },
+                "uid": 5592338750686,
+                "update_ts": "2012-10-02T06:23:36Z"
+            },
+            {
+                "avail": -4,
+                "buynow_url": null,
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=54879378",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": false,
+                "is_brokered": true,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [],
+                "sendrfq_url": "http://octopart.com/rfq/generate?ppid=396&vpid=54879378",
+                "sku": "H-46-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Vyrian",
+                    "homepage_url": "http://www.vyrianinc.com",
+                    "hq_country": "US",
+                    "id": 4099
+                },
+                "uid": 5487937852716,
+                "update_ts": "2012-12-10T01:54:01Z"
+            },
+            {
+                "avail": -4,
+                "buynow_url": null,
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=41332525",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": false,
+                "is_brokered": true,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [],
+                "sendrfq_url": null,
+                "sku": "H466A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Sierra IC",
+                    "homepage_url": "http://www.sierraic.com",
+                    "hq_country": "US",
+                    "id": 2425
+                },
+                "uid": 4133252550166,
+                "update_ts": "2012-12-14T21:40:57Z"
+            },
+            {
+                "avail": -4,
+                "buynow_url": null,
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=58063729",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": false,
+                "is_brokered": true,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [],
+                "sendrfq_url": null,
+                "sku": "H-46-6A",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Net Semi",
+                    "homepage_url": "http://netsemi.com/",
+                    "hq_country": "US",
+                    "id": 3590
+                },
+                "uid": 5806372953254,
+                "update_ts": "2012-12-04T00:41:19Z"
+            }
+        ],
+        "refer_id": null,
+        "short_description": "Dial; Turns-Counting, Analog; 20 Turns; 100per Turn; Shaft Dia 0.25in",
+        "specs": [
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "Weight",
+                    "fieldname": "weight",
+                    "metadata": {
+                        "datatype": "float",
+                        "unit": {
+                            "name": "g",
+                            "symbol": "g"
+                        }
+                    },
+                    "type": "number"
+                },
+                "values": [
+                    {
+                        "uncertainty_minus": null,
+                        "uncertainty_plus": null,
+                        "value": 73.0
+                    }
+                ]
+            },
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "Color",
+                    "fieldname": "color",
+                    "metadata": null,
+                    "type": "text"
+                },
+                "values": [
+                    "Transparent"
+                ]
+            },
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "Material",
+                    "fieldname": "material",
+                    "metadata": null,
+                    "type": "text"
+                },
+                "values": [
+                    "Metal"
+                ]
+            },
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "Lead-Free Status",
+                    "fieldname": "lead_free_status",
+                    "metadata": null,
+                    "type": "text"
+                },
+                "values": [
+                    "Lead Free"
+                ]
+            },
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "RoHS",
+                    "fieldname": "rohs",
+                    "metadata": null,
+                    "type": "text"
+                },
+                "values": [
+                    "Compliant"
+                ]
+            },
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "Size-Diameter",
+                    "fieldname": "size_diameter",
+                    "metadata": {
+                        "datatype": "float",
+                        "unit": {
+                            "name": "m",
+                            "symbol": "m"
+                        }
+                    },
+                    "type": "number"
+                },
+                "values": [
+                    {
+                        "uncertainty_minus": null,
+                        "uncertainty_plus": null,
+                        "value": 0.0459994
+                    }
+                ]
+            }
+        ],
+        "uid": 39619421
+    },
+    {
+        "__class__": "Part",
+        "avg_avail": 753,
+        "avg_price": [
+            7.299821428571428,
+            "USD"
+        ],
+        "category_ids": [
+            4180,
+            4165,
+            4181,
+            4173
+        ],
+        "datasheets": [
+            {
+                "score": 1,
+                "source_group": 2,
+                "url": "http://datasheet.octopart.com/53C35K-Honeywell-datasheet-12373.pdf"
+            },
+            {
+                "score": 1,
+                "source_group": 2,
+                "url": "http://datasheet.octopart.com/53C35K-Honeywell-datasheet-6014.pdf"
+            },
+            {
+                "score": 1,
+                "source_group": 2,
+                "url": "http://datasheet.octopart.com/53C35K-Honeywell-datasheet-500974.pdf"
+            },
+            {
+                "score": 1,
+                "source_group": 2,
+                "url": "http://datasheet.octopart.com/53C35K-Honeywell-datasheet-9968212.pdf"
+            }
+        ],
+        "descriptions": [
+            {
+                "credit_domain": "sensing.honeywell.com",
+                "credit_url": "http://octopart-clicks.com/click/hltrack?hlid=1734304",
+                "text": "The 53 Series is an economical potentiometer made with a rugged construction. It offers a 2 watt power rating and the benefits of a conductive plastic element. It is available in a special construction that accepts a rotary switch (purchased separately)."
+            },
+            {
+                "credit_domain": "element14.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=38241720",
+                "text": "POT, COND PLASTIC, 5KOHM, 10%, 2W; Track; POT, COND PLASTIC, 5KOHM, 10%, 2W; Track Resistance:5kohm; Track Taper:Linear; No. of Turns:1; Shaft Diameter:6.35mm; Shaft Length:22.23mm; Resistance Tolerance:\u00b1 10%; Voltage Rating:500V; Power Rating:2W"
+            },
+            {
+                "credit_domain": "newark.com",
+                "credit_url": "http://octopart.com/click/vptrack?vpid=33398410",
+                "text": "POT, COND PLASTIC, 5KOHM, 10%, 2W; Track Resistance:5kohm; Track Taper:Linear; No. of Turns:1; Shaft Diameter:6.35mm; Shaft Length:22.23mm; Resistance Tolerance:\u00b1 10%; Voltage Rating:500V; Power Rating:2W"
+            },
+            {
+                "credit_domain": "sager.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=62138540",
+                "text": "Res Conductive Plastic POT 5K Ohm 10% 2W 1(Mech)Turn 6.35mm (36.52 X 27.78 X 36.12mm) Solder Lug Panel Mount"
+            },
+            {
+                "credit_domain": "verical.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=19906466",
+                "text": "Res Conductive Plastic POT 5K Ohm 10% 2W 1(Mech)Turn 6.35mm (36.52 X 27.78 X 36.12mm) Solder Lug Panel Mount"
+            },
+            {
+                "credit_domain": "alliedelec.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=46774539",
+                "text": "Pot;Cnd Pl;Rest 5 Kilohms;Panel;Linear;Pwr-Rtg 2W;Shaft Dia 0.25in"
+            },
+            {
+                "credit_domain": "digikey.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=1711512",
+                "text": "POT 5K OHM 2W CONDUCT PLASTIC"
+            },
+            {
+                "credit_domain": "onlinecomponents.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=11895013",
+                "text": "INDUSTRIAL POTENTIOMETERS"
+            },
+            {
+                "credit_domain": "masterdistributors.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=16025806",
+                "text": "INDUSTRIAL POTENTIOMETERS"
+            }
+        ],
+        "detail_url": "http://octopart.com/53c35k-honeywell-290",
+        "hyperlinks": {
+            "manufacturer": "http://octopart-clicks.com/click/hltrack?hlid=1734304"
+        },
+        "images": [
+            {
+                "credit_domain": "sensing.honeywell.com",
+                "credit_url": "http://octopart-clicks.com/click/hltrack?hlid=1734304",
+                "url": "http://sigma.octopart.com/10843954/image/Honeywell-53C35K.jpg",
+                "url_30px": "http://sigma.octopart.com/10843955/image/Honeywell-53C35K.jpg",
+                "url_35px": "http://sigma.octopart.com/10843956/image/Honeywell-53C35K.jpg",
+                "url_55px": "http://sigma.octopart.com/10843957/image/Honeywell-53C35K.jpg",
+                "url_90px": "http://sigma.octopart.com/10843958/image/Honeywell-53C35K.jpg"
+            },
+            {
+                "credit_domain": "alliedelec.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=46774539",
+                "url": "http://sigma.octopart.com/9946688/image/Honeywell-53C35K.jpg",
+                "url_30px": "http://sigma.octopart.com/9946689/image/Honeywell-53C35K.jpg",
+                "url_35px": "http://sigma.octopart.com/9946690/image/Honeywell-53C35K.jpg",
+                "url_55px": "http://sigma.octopart.com/9946691/image/Honeywell-53C35K.jpg",
+                "url_90px": "http://sigma.octopart.com/9946692/image/Honeywell-53C35K.jpg"
+            },
+            {
+                "credit_domain": "onlinecomponents.com",
+                "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=11895013",
+                "url": "http://sigma.octopart.com/12659616/image/Honeywell-53C35K.jpg",
+                "url_30px": "http://sigma.octopart.com/12659619/image/Honeywell-53C35K.jpg",
+                "url_35px": "http://sigma.octopart.com/12659620/image/Honeywell-53C35K.jpg",
+                "url_55px": "http://sigma.octopart.com/12659622/image/Honeywell-53C35K.jpg",
+                "url_90px": "http://sigma.octopart.com/12659624/image/Honeywell-53C35K.jpg"
+            },
+            {
+                "credit_domain": null,
+                "credit_url": null,
+                "url": "http://sigma.octopart.com/501381/image/Honeywell-53C35K.gif",
+                "url_30px": "http://sigma.octopart.com/819810/image/Honeywell-53C35K.gif",
+                "url_35px": "http://sigma.octopart.com/819811/image/Honeywell-53C35K.gif",
+                "url_55px": "http://sigma.octopart.com/819812/image/Honeywell-53C35K.gif",
+                "url_90px": "http://sigma.octopart.com/819813/image/Honeywell-53C35K.gif"
+            }
+        ],
+        "manufacturer": {
+            "__class__": "Brand",
+            "displayname": "Honeywell",
+            "homepage_url": "http://sensing.honeywell.com",
+            "id": 171,
+            "is_verified": false
+        },
+        "market_status": "WARNING: Small Volume Availability (100 pieces)",
+        "mpn": "53C35K",
+        "num_authsuppliers": 12,
+        "num_suppliers": 12,
+        "offers": [
+            {
+                "avail": 960,
+                "buynow_url": "http://octopart.com/click/vptrack?vpid=33398410",
+                "clickthrough_url": "http://octopart.com/click/vptrack?vpid=33398410",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        8.54,
+                        "USD"
+                    ],
+                    [
+                        10,
+                        8.2,
+                        "USD"
+                    ],
+                    [
+                        50,
+                        6.89,
+                        "USD"
+                    ],
+                    [
+                        100,
+                        6.39,
+                        "USD"
+                    ],
+                    [
+                        200,
+                        6.23,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "21M8939",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Newark",
+                    "homepage_url": "http://www.newark.com",
+                    "hq_country": "US",
+                    "id": 2402
+                },
+                "uid": 3339841059904,
+                "update_ts": "2012-12-17T13:18:21Z"
+            },
+            {
+                "avail": 933,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=62138540",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=62138540",
+                "datecode": null,
+                "factory_lead_days": 46,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": 1,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        21,
+                        7.94,
+                        "USD"
+                    ],
+                    [
+                        53,
+                        7.27,
+                        "USD"
+                    ],
+                    [
+                        107,
+                        6.88,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "000000000000021835",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Sager",
+                    "homepage_url": "http://www.sager.com/",
+                    "hq_country": "US",
+                    "id": 5357
+                },
+                "uid": 6213854020883,
+                "update_ts": "2012-12-17T10:18:23Z"
+            },
+            {
+                "avail": 281,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=19906466",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=19906466",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        9,
+                        5.8575,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "53C35K",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Verical",
+                    "homepage_url": "http://www.verical.com",
+                    "hq_country": "US",
+                    "id": 2617
+                },
+                "uid": 1990646614220,
+                "update_ts": "2012-12-17T17:21:46Z"
+            },
+            {
+                "avail": 221,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=37879987",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=37879987",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        8.54,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "785-53C35K",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Mouser",
+                    "homepage_url": "http://www.mouser.com",
+                    "hq_country": "US",
+                    "id": 2401,
+                    "is_verified": false
+                },
+                "uid": 3787998732704,
+                "update_ts": "2012-12-15T08:31:03Z"
+            },
+            {
+                "avail": 108,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=13197951",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=13197951",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        9.36,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "53C35K",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "RS Electronics",
+                    "homepage_url": "http://www.rselectronics.com/",
+                    "hq_country": "US",
+                    "id": 2421
+                },
+                "uid": 1319795114944,
+                "update_ts": "2012-12-17T12:01:11Z"
+            },
+            {
+                "avail": 281,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=14195113",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=14195113",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        7.53,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "53C35K",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Arrow",
+                    "homepage_url": "http://www.arrownac.com/",
+                    "hq_country": "US",
+                    "id": 1106,
+                    "is_verified": false
+                },
+                "uid": 1419511324197,
+                "update_ts": "2012-12-17T21:13:09Z"
+            },
+            {
+                "avail": 266,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=11895013",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=11895013",
+                "datecode": null,
+                "factory_lead_days": 6,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": 1,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        6.9,
+                        "USD"
+                    ],
+                    [
+                        25,
+                        6.3,
+                        "USD"
+                    ],
+                    [
+                        50,
+                        5.83,
+                        "USD"
+                    ],
+                    [
+                        100,
+                        5.54,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "53C35K",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Onlinecomponents.com",
+                    "homepage_url": "http://www.onlinecomponents.com",
+                    "hq_country": "US",
+                    "id": 2429
+                },
+                "uid": 1189501302674,
+                "update_ts": "2012-12-03T13:08:25Z"
+            },
+            {
+                "avail": 59,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=1711512",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=1711512",
+                "datecode": null,
+                "factory_lead_days": 40,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": 1,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": "BULK",
+                "prices": [
+                    [
+                        1,
+                        11.84,
+                        "USD"
+                    ],
+                    [
+                        10,
+                        8.662,
+                        "USD"
+                    ],
+                    [
+                        25,
+                        8.1092,
+                        "USD"
+                    ],
+                    [
+                        50,
+                        7.6588,
+                        "USD"
+                    ],
+                    [
+                        100,
+                        7.1757,
+                        "USD"
+                    ],
+                    [
+                        250,
+                        6.86616,
+                        "USD"
+                    ],
+                    [
+                        500,
+                        6.59884,
+                        "USD"
+                    ],
+                    [
+                        1000,
+                        6.2846,
+                        "USD"
+                    ],
+                    [
+                        2500,
+                        6.06417,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "RV4N502-ND",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Digi-Key",
+                    "homepage_url": "http://www.digikey.com",
+                    "hq_country": "US",
+                    "id": 459,
+                    "is_verified": false
+                },
+                "uid": 171151221401,
+                "update_ts": "2012-12-16T10:10:02Z"
+            },
+            {
+                "avail": 960,
+                "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=38241720",
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=38241720",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        18.22,
+                        "USD"
+                    ],
+                    [
+                        1000,
+                        15.99,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "1858581",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "element14 APAC",
+                    "homepage_url": "http://www.element14.com/",
+                    "hq_country": "CN",
+                    "id": 3702
+                },
+                "uid": 3824172014768,
+                "update_ts": "2012-12-17T07:35:12Z"
+            },
+            {
+                "avail": 212,
+                "buynow_url": null,
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=16025806",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": true,
+                "is_brokered": false,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [
+                    [
+                        1,
+                        6.7,
+                        "USD"
+                    ],
+                    [
+                        25,
+                        6.11,
+                        "USD"
+                    ],
+                    [
+                        50,
+                        5.83,
+                        "USD"
+                    ],
+                    [
+                        100,
+                        5.54,
+                        "USD"
+                    ]
+                ],
+                "sendrfq_url": null,
+                "sku": "53C35K",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Master Distributors",
+                    "homepage_url": "http://masterdistributors.com/",
+                    "hq_country": "US",
+                    "id": 2591,
+                    "is_verified": false
+                },
+                "uid": 1602580617302,
+                "update_ts": "2012-12-17T09:35:55Z"
+            },
+            {
+                "avail": -4,
+                "buynow_url": null,
+                "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=63172312",
+                "datecode": null,
+                "factory_lead_days": null,
+                "factory_pack_quantity": null,
+                "is_authorized": false,
+                "is_brokered": true,
+                "moq": null,
+                "on_order_eta": null,
+                "on_order_quantity": null,
+                "order_multiple": null,
+                "packaging": null,
+                "prices": [],
+                "sendrfq_url": null,
+                "sku": "53C35K",
+                "supplier": {
+                    "__class__": "Brand",
+                    "displayname": "Sierra IC",
+                    "homepage_url": "http://www.sierraic.com",
+                    "hq_country": "US",
+                    "id": 2425
+                },
+                "uid": 6317231263699,
+                "update_ts": "2012-12-14T21:40:57Z"
+            }
+        ],
+        "refer_id": null,
+        "short_description": "Res Conductive Plastic POT 5K Ohm 10% 2W 1(Mech)Turn 6.35mm (36.52 X 27.78 X 36.12mm) Solder Lug Panel Mount",
+        "specs": [
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "Power Rating",
+                    "fieldname": "power_rating",
+                    "metadata": {
+                        "datatype": "float",
+                        "unit": {
+                            "name": "W",
+                            "symbol": "W"
+                        }
+                    },
+                    "type": "number"
+                },
+                "values": [
+                    {
+                        "uncertainty_minus": null,
+                        "uncertainty_plus": null,
+                        "value": 2.0
+                    }
+                ]
+            },
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "Voltage Rating (DC)",
+                    "fieldname": "voltage_rating_dc",
+                    "metadata": {
+                        "datatype": "float",
+                        "unit": {
+                            "name": "V",
+                            "symbol": "V"
+                        }
+                    },
+                    "type": "number"
+                },
+                "values": [
+                    {
+                        "uncertainty_minus": null,
+                        "uncertainty_plus": null,
+                        "value": 500.0
+                    }
+                ]
+            },
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "Resistance",
+                    "fieldname": "resistance",
+                    "metadata": {
+                        "datatype": "float",
+                        "unit": {
+                            "name": "ohms",
+                            "symbol": "\u03a9"
+                        }
+                    },
+                    "type": "number"
+                },
+                "values": [
+                    {
+                        "uncertainty_minus": null,
+                        "uncertainty_plus": null,
+                        "value": 5000.0
+                    }
+                ]
+            },
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "Resistance Tolerance",
+                    "fieldname": "resistance_tolerance",
+                    "metadata": null,
+                    "type": "text"
+                },
+                "values": [
+                    "\u00b110%"
+                ]
+            },
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "Packaging",
+                    "fieldname": "packaging",
+                    "metadata": null,
+                    "type": "text"
+                },
+                "values": [
+                    "Bulk"
+                ]
+            },
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "Size-Length",
+                    "fieldname": "size_length",
+                    "metadata": {
+                        "datatype": "float",
+                        "unit": {
+                            "name": "m",
+                            "symbol": "m"
+                        }
+                    },
+                    "type": "number"
+                },
+                "values": [
+                    {
+                        "uncertainty_minus": null,
+                        "uncertainty_plus": null,
+                        "value": 0.01429
+                    }
+                ]
+            },
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "RoHS",
+                    "fieldname": "rohs",
+                    "metadata": null,
+                    "type": "text"
+                },
+                "values": [
+                    "Compliant"
+                ]
+            },
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "Mounting Type",
+                    "fieldname": "mounting_type",
+                    "metadata": null,
+                    "type": "text"
+                },
+                "values": [
+                    "Surface Mount",
+                    "Solder Lug"
+                ]
+            },
+            {
+                "attribute": {
+                    "__class__": "PartAttribute",
+                    "displayname": "Size-Diameter",
+                    "fieldname": "size_diameter",
+                    "metadata": {
+                        "datatype": "float",
+                        "unit": {
+                            "name": "m",
+                            "symbol": "m"
+                        }
+                    },
+                    "type": "number"
+                },
+                "values": [
+                    {
+                        "uncertainty_minus": null,
+                        "uncertainty_plus": null,
+                        "value": 0.0254
+                    }
+                ]
+            }
+        ],
+        "uid": 29035751
+    }
+]

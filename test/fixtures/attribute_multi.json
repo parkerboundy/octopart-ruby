@@ -1,0 +1,28 @@
+[
+    {
+        "__class__": "PartAttribute",
+        "displayname": "Capacitance",
+        "fieldname": "capacitance",
+        "metadata": {
+            "datatype": "float",
+            "unit": {
+                "name": "F",
+                "symbol": "F"
+            }
+        },
+        "type": "number"
+    },
+    {
+        "__class__": "PartAttribute",
+        "displayname": "Resistance",
+        "fieldname": "resistance",
+        "metadata": {
+            "datatype": "float",
+            "unit": {
+                "name": "ohms",
+                "symbol": "\u03a9"
+            }
+        },
+        "type": "number"
+    }
+]

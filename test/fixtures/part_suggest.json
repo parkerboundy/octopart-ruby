@@ -1,0 +1,15 @@
+{
+    "hits": 1908,
+    "request": {
+        "limit": 5,
+        "q": "'sn74f*"
+    },
+    "results": [
+        "SN74F245DWR",
+        "SN74F00D",
+        "SN74F74N",
+        "SN74F125D",
+        "SN74F125DR"
+    ],
+    "time": 0.05813908576965332
+}

@@ -1,0 +1,1493 @@
+{
+    "request": {
+        "lines": [
+            {
+                "limit": 3,
+                "manufacturer": "Texas Instruments",
+                "mpn": "SN74LS240N",
+                "mpn_or_sku": null,
+                "q": "",
+                "reference": null,
+                "sku": null,
+                "start": 0,
+                "supplier": null
+            }
+        ]
+    },
+    "results": [
+        {
+            "hits": 1,
+            "items": [
+                {
+                    "__class__": "Part",
+                    "avg_avail": 823,
+                    "avg_price": [
+                        0.7014333333333332,
+                        "USD"
+                    ],
+                    "category_ids": [
+                        4273,
+                        4274,
+                        4282,
+                        4215
+                    ],
+                    "datasheets": [
+                        {
+                            "score": 2,
+                            "source_group": 1,
+                            "url": "http://datasheet.octopart.com/SN74LS240N-Texas-Instruments-datasheet-149038.pdf"
+                        },
+                        {
+                            "score": 2,
+                            "source_group": 1,
+                            "url": "http://datasheet.octopart.com/SN74LS240N-Texas-Instruments-datasheet-10255185.pdf"
+                        },
+                        {
+                            "score": 1,
+                            "source_group": 1,
+                            "url": "http://datasheet.octopart.com/SN74LS240N-Texas-Instruments-datasheet-3839.pdf"
+                        },
+                        {
+                            "score": 1,
+                            "source_group": 2,
+                            "url": "http://datasheet.octopart.com/SN74LS240N-Texas-Instruments-datasheet-20552.pdf"
+                        },
+                        {
+                            "score": 1,
+                            "source_group": 2,
+                            "url": "http://datasheet.octopart.com/SN74LS240N-Texas-Instruments-datasheet-111635.pdf"
+                        },
+                        {
+                            "score": 1,
+                            "source_group": 1,
+                            "url": "http://datasheet.octopart.com/SN74LS240N.-Texas-Instruments-datasheet-5314413.pdf"
+                        },
+                        {
+                            "score": 1,
+                            "source_group": 1,
+                            "url": "http://datasheet.octopart.com/SN74LS240N-Texas-Instruments-datasheet-5314413.pdf"
+                        },
+                        {
+                            "score": 1,
+                            "source_group": 1,
+                            "url": "http://datasheet.octopart.com/SN74LS240N-Texas-Instruments-datasheet-8359989.pdf"
+                        },
+                        {
+                            "score": 1,
+                            "source_group": 1,
+                            "url": "http://datasheet.octopart.com/SN74LS240N-Texas-Instruments-datasheet-8724022.pdf"
+                        }
+                    ],
+                    "descriptions": [
+                        {
+                            "credit_domain": "ti.com",
+                            "credit_url": "http://octopart-clicks.com/click/hltrack?hlid=1313193",
+                            "text": "Octal buffers and line drivers 20-PDIP 0 to 70"
+                        },
+                        {
+                            "credit_domain": "farnell.com",
+                            "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=20335607",
+                            "text": "LOGIC, BUFF/DVR TRI-ST OCTAL, 20DIP; No. of Pins:20; Operating Temperature Range:0\u00b0C to +70\u00b0C; Case Style:PDIP; Logic IC Base Number:74240; Logic IC Family:LS; Logic IC Function:Octal Buffer / Line Driver with 3-State Outputs; Max Supply Voltage:5.25V; Min Supply Voltage:4.75V; Termination Type:Through Hole"
+                        },
+                        {
+                            "credit_domain": "newark.com",
+                            "credit_url": "http://octopart.com/click/vptrack?vpid=3004189",
+                            "text": "74LS, 74LS240, DIP20, 5.25V; Logic IC Function:Octal Inverting Buffer/Line Driver (3-State); Logic IC Family:LS; Logic IC Base Number:74240; Max Input Current:0.1mA; Voltage, Supply Min:4.75V; Voltage, Supply Max:5.25V; Case ;RoHS Compliant: Yes"
+                        },
+                        {
+                            "credit_domain": "verical.com",
+                            "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=17765035",
+                            "text": "Buffer/Line Driver 8-CH Inverting 3-ST Bipolar 20-Pin PDIP Tube"
+                        },
+                        {
+                            "credit_domain": "onlinecomponents.com",
+                            "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=8950685",
+                            "text": "Buffer/Line Driver 8-CH Inverting 3-ST Bipolar 20-Pin PDIP Tube"
+                        },
+                        {
+                            "credit_domain": "jameco.com",
+                            "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=2272444",
+                            "text": "IC,SN74LS240N,DIP-20, OCTAL BUFFER/LINE DRIVER"
+                        },
+                        {
+                            "credit_domain": "digikey.com",
+                            "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=1357654",
+                            "text": "IC INVERTER DUAL 4-INPUT 20DIP"
+                        },
+                        {
+                            "credit_domain": "smtcorp.com",
+                            "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=12441686",
+                            "text": "DC:REFURB,4-BIT,DRIVER"
+                        },
+                        {
+                            "credit_domain": "questcomp.com",
+                            "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=11323773",
+                            "text": "Alt PN: SN74LS240NE4"
+                        },
+                        {
+                            "credit_domain": "peribanu.com",
+                            "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=46123939",
+                            "text": "BOX 1172"
+                        }
+                    ],
+                    "detail_url": "http://octopart.com/sn74ls240n-texas+instruments-423153",
+                    "hyperlinks": {
+                        "manufacturer": "http://octopart-clicks.com/click/hltrack?hlid=1313193"
+                    },
+                    "images": [
+                        {
+                            "credit_domain": "jameco.com",
+                            "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=2272444",
+                            "url": "http://sigma.octopart.com/5246277/image/Texas-Instruments-SN74LS240N.jpeg",
+                            "url_30px": "http://sigma.octopart.com/5246278/image/Texas-Instruments-SN74LS240N.jpeg",
+                            "url_35px": "http://sigma.octopart.com/5246279/image/Texas-Instruments-SN74LS240N.jpeg",
+                            "url_55px": "http://sigma.octopart.com/5246280/image/Texas-Instruments-SN74LS240N.jpeg",
+                            "url_90px": "http://sigma.octopart.com/5246281/image/Texas-Instruments-SN74LS240N.jpeg"
+                        },
+                        {
+                            "credit_domain": "newark.com",
+                            "credit_url": "http://octopart.com/click/vptrack?vpid=3004189",
+                            "url": "http://sigma.octopart.com/472232/image/Texas-Instruments-SN74LS240N.gif",
+                            "url_30px": "http://sigma.octopart.com/825469/image/Texas-Instruments-SN74LS240N.gif",
+                            "url_35px": "http://sigma.octopart.com/825470/image/Texas-Instruments-SN74LS240N.gif",
+                            "url_55px": "http://sigma.octopart.com/825471/image/Texas-Instruments-SN74LS240N.gif",
+                            "url_90px": "http://sigma.octopart.com/825472/image/Texas-Instruments-SN74LS240N.gif"
+                        },
+                        {
+                            "credit_domain": "onlinecomponents.com",
+                            "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=8950685",
+                            "url": "http://sigma.octopart.com/12663791/image/Texas-Instruments-SN74LS240N.jpg",
+                            "url_30px": "http://sigma.octopart.com/12663793/image/Texas-Instruments-SN74LS240N.jpg",
+                            "url_35px": "http://sigma.octopart.com/12663795/image/Texas-Instruments-SN74LS240N.jpg",
+                            "url_55px": "http://sigma.octopart.com/12663798/image/Texas-Instruments-SN74LS240N.jpg",
+                            "url_90px": "http://sigma.octopart.com/12663799/image/Texas-Instruments-SN74LS240N.jpg"
+                        },
+                        {
+                            "credit_domain": "farnell.com",
+                            "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=20335607",
+                            "url": "http://sigma.octopart.com/172151/image/Texas-Instruments-SN74LS240N..jpg",
+                            "url_30px": "http://sigma.octopart.com/823645/image/Texas-Instruments-SN74LS240N..jpg",
+                            "url_35px": "http://sigma.octopart.com/823646/image/Texas-Instruments-SN74LS240N..jpg",
+                            "url_55px": "http://sigma.octopart.com/823647/image/Texas-Instruments-SN74LS240N..jpg",
+                            "url_90px": "http://sigma.octopart.com/823648/image/Texas-Instruments-SN74LS240N..jpg"
+                        },
+                        {
+                            "credit_domain": "digikey.com",
+                            "credit_url": "http://octopart-clicks.com/click/vptrack?vpid=1357654",
+                            "url": "http://sigma.octopart.com/8894496/image/Texas-Instruments-SN74LS240N.jpg",
+                            "url_30px": "http://sigma.octopart.com/8894497/image/Texas-Instruments-SN74LS240N.jpg",
+                            "url_35px": "http://sigma.octopart.com/8894498/image/Texas-Instruments-SN74LS240N.jpg",
+                            "url_55px": "http://sigma.octopart.com/8894499/image/Texas-Instruments-SN74LS240N.jpg",
+                            "url_90px": "http://sigma.octopart.com/8894500/image/Texas-Instruments-SN74LS240N.jpg"
+                        },
+                        {
+                            "credit_domain": null,
+                            "credit_url": null,
+                            "url": "http://sigma.octopart.com/10685287/image/Texas-Instruments-SN74LS240N.jpg",
+                            "url_30px": "http://sigma.octopart.com/10685288/image/Texas-Instruments-SN74LS240N.jpg",
+                            "url_35px": "http://sigma.octopart.com/10685289/image/Texas-Instruments-SN74LS240N.jpg",
+                            "url_55px": "http://sigma.octopart.com/10685290/image/Texas-Instruments-SN74LS240N.jpg",
+                            "url_90px": "http://sigma.octopart.com/10685291/image/Texas-Instruments-SN74LS240N.jpg"
+                        },
+                        {
+                            "credit_domain": null,
+                            "credit_url": null,
+                            "url": "http://sigma.octopart.com/472232/image/Texas-Instruments-SN74LS240N.gif",
+                            "url_30px": "http://sigma.octopart.com/825469/image/Texas-Instruments-SN74LS240N.gif",
+                            "url_35px": "http://sigma.octopart.com/825470/image/Texas-Instruments-SN74LS240N.gif",
+                            "url_55px": "http://sigma.octopart.com/825471/image/Texas-Instruments-SN74LS240N.gif",
+                            "url_90px": "http://sigma.octopart.com/825472/image/Texas-Instruments-SN74LS240N.gif"
+                        },
+                        {
+                            "credit_domain": null,
+                            "credit_url": null,
+                            "url": "http://sigma.octopart.com/307002/image/Texas-Instruments-SN74LS240N.jpg",
+                            "url_30px": "http://sigma.octopart.com/865831/image/Texas-Instruments-SN74LS240N.jpg",
+                            "url_35px": "http://sigma.octopart.com/865832/image/Texas-Instruments-SN74LS240N.jpg",
+                            "url_55px": "http://sigma.octopart.com/865833/image/Texas-Instruments-SN74LS240N.jpg",
+                            "url_90px": "http://sigma.octopart.com/865834/image/Texas-Instruments-SN74LS240N.jpg"
+                        }
+                    ],
+                    "manufacturer": {
+                        "__class__": "Brand",
+                        "displayname": "Texas Instruments",
+                        "homepage_url": "http://ti.com",
+                        "id": 370,
+                        "is_verified": true
+                    },
+                    "market_status": "GOOD: Small Volume Availability (1k+ pieces)",
+                    "mpn": "SN74LS240N",
+                    "num_authsuppliers": 9,
+                    "num_suppliers": 33,
+                    "offers": [
+                        {
+                            "avail": 247,
+                            "buynow_url": "http://octopart.com/click/vptrack?vpid=3004189",
+                            "clickthrough_url": "http://octopart.com/click/vptrack?vpid=3004189",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": true,
+                            "is_brokered": false,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [
+                                [
+                                    1,
+                                    0.819,
+                                    "USD"
+                                ],
+                                [
+                                    25,
+                                    0.703,
+                                    "USD"
+                                ],
+                                [
+                                    100,
+                                    0.613,
+                                    "USD"
+                                ],
+                                [
+                                    250,
+                                    0.542,
+                                    "USD"
+                                ],
+                                [
+                                    500,
+                                    0.419,
+                                    "USD"
+                                ]
+                            ],
+                            "sendrfq_url": null,
+                            "sku": "60K6871",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Newark",
+                                "homepage_url": "http://www.newark.com",
+                                "hq_country": "US",
+                                "id": 2402
+                            },
+                            "uid": 300418902846,
+                            "update_ts": "2012-12-19T13:18:34Z"
+                        },
+                        {
+                            "avail": 4430,
+                            "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=37818175",
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=37818175",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": true,
+                            "is_brokered": false,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [
+                                [
+                                    1,
+                                    0.78,
+                                    "USD"
+                                ]
+                            ],
+                            "sendrfq_url": null,
+                            "sku": "595-SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Mouser",
+                                "homepage_url": "http://www.mouser.com",
+                                "hq_country": "US",
+                                "id": 2401,
+                                "is_verified": false
+                            },
+                            "uid": 3781817513281,
+                            "update_ts": "2012-12-19T07:21:47Z"
+                        },
+                        {
+                            "avail": 3220,
+                            "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=15164599",
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=15164599",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": true,
+                            "is_brokered": false,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [
+                                [
+                                    1,
+                                    0.4361,
+                                    "USD"
+                                ]
+                            ],
+                            "sendrfq_url": null,
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Arrow",
+                                "homepage_url": "http://www.arrownac.com/",
+                                "hq_country": "US",
+                                "id": 1106,
+                                "is_verified": false
+                            },
+                            "uid": 1516459943995,
+                            "update_ts": "2012-12-19T21:13:08Z"
+                        },
+                        {
+                            "avail": 1845,
+                            "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=1357654",
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=1357654",
+                            "datecode": null,
+                            "factory_lead_days": 58,
+                            "factory_pack_quantity": null,
+                            "is_authorized": true,
+                            "is_brokered": false,
+                            "moq": 1,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": "TUBE",
+                            "prices": [
+                                [
+                                    1,
+                                    0.88,
+                                    "USD"
+                                ],
+                                [
+                                    10,
+                                    0.781,
+                                    "USD"
+                                ],
+                                [
+                                    100,
+                                    0.6174,
+                                    "USD"
+                                ],
+                                [
+                                    250,
+                                    0.5418,
+                                    "USD"
+                                ],
+                                [
+                                    500,
+                                    0.4788,
+                                    "USD"
+                                ],
+                                [
+                                    1000,
+                                    0.378,
+                                    "USD"
+                                ],
+                                [
+                                    2500,
+                                    0.3528,
+                                    "USD"
+                                ],
+                                [
+                                    5000,
+                                    0.33516,
+                                    "USD"
+                                ],
+                                [
+                                    10000,
+                                    0.32256,
+                                    "USD"
+                                ]
+                            ],
+                            "sendrfq_url": null,
+                            "sku": "296-1651-5-ND",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Digi-Key",
+                                "homepage_url": "http://www.digikey.com",
+                                "hq_country": "US",
+                                "id": 459,
+                                "is_verified": false
+                            },
+                            "uid": 135765452708,
+                            "update_ts": "2012-12-19T15:06:51Z"
+                        },
+                        {
+                            "avail": 788,
+                            "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=61564430",
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=61564430",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": true,
+                            "is_brokered": false,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [
+                                [
+                                    200,
+                                    0.4385,
+                                    "USD"
+                                ]
+                            ],
+                            "sendrfq_url": null,
+                            "sku": "+SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Avnet Express Europe",
+                                "homepage_url": "http://avnetexpress.avnet.com/store/em/EMController?storeId=500201&action=home&region=EMEA&catalogId=500201&langId=-1",
+                                "hq_country": "EU",
+                                "id": 5347
+                            },
+                            "uid": 6156443017456,
+                            "update_ts": "2012-12-19T12:29:38Z"
+                        },
+                        {
+                            "avail": 573,
+                            "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=20335607",
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=20335607",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": true,
+                            "is_brokered": false,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [],
+                            "sendrfq_url": null,
+                            "sku": "1739686",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Farnell",
+                                "homepage_url": "http://www.farnell.com/",
+                                "hq_country": "GB",
+                                "id": 819,
+                                "is_verified": false
+                            },
+                            "uid": 2033560753588,
+                            "update_ts": "2012-12-19T06:14:34Z"
+                        },
+                        {
+                            "avail": 640,
+                            "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=17765035",
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=17765035",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": false,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [
+                                [
+                                    640,
+                                    0.3929,
+                                    "USD"
+                                ]
+                            ],
+                            "sendrfq_url": null,
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Verical",
+                                "homepage_url": "http://www.verical.com",
+                                "hq_country": "US",
+                                "id": 2617
+                            },
+                            "uid": 1776503540711,
+                            "update_ts": "2012-12-19T17:19:48Z"
+                        },
+                        {
+                            "avail": 111,
+                            "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=45141749",
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=45141749",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": false,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [
+                                [
+                                    1,
+                                    0.2,
+                                    "USD"
+                                ]
+                            ],
+                            "sendrfq_url": null,
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Freelance Electronics",
+                                "homepage_url": "http://rcfreelance.com/",
+                                "hq_country": "US",
+                                "id": 3917
+                            },
+                            "uid": 4514174931127,
+                            "update_ts": "2012-12-19T16:40:43Z"
+                        },
+                        {
+                            "avail": 400,
+                            "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=2272444",
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=2272444",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": false,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [
+                                [
+                                    1,
+                                    0.79,
+                                    "USD"
+                                ],
+                                [
+                                    10,
+                                    0.65,
+                                    "USD"
+                                ],
+                                [
+                                    100,
+                                    0.55,
+                                    "USD"
+                                ]
+                            ],
+                            "sendrfq_url": null,
+                            "sku": "308291",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Jameco",
+                                "homepage_url": "http://www.jameco.com",
+                                "hq_country": "US",
+                                "id": 2410,
+                                "is_verified": false
+                            },
+                            "uid": 227244412248,
+                            "update_ts": "2012-12-19T19:19:16Z"
+                        },
+                        {
+                            "avail": 18,
+                            "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=8950685",
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=8950685",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": false,
+                            "moq": 1,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": "Each",
+                            "prices": [
+                                [
+                                    1,
+                                    1.32,
+                                    "USD"
+                                ],
+                                [
+                                    25,
+                                    1.03,
+                                    "USD"
+                                ],
+                                [
+                                    50,
+                                    0.93,
+                                    "USD"
+                                ]
+                            ],
+                            "sendrfq_url": null,
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Onlinecomponents.com",
+                                "homepage_url": "http://www.onlinecomponents.com",
+                                "hq_country": "US",
+                                "id": 2429
+                            },
+                            "uid": 895068557673,
+                            "update_ts": "2012-12-03T13:08:25Z"
+                        },
+                        {
+                            "avail": 43,
+                            "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=44658828",
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=44658828",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": false,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [],
+                            "sendrfq_url": null,
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Bristol Electronics",
+                                "homepage_url": "http://bristolelectronics.com",
+                                "hq_country": "US",
+                                "id": 3139
+                            },
+                            "uid": 4465882838731,
+                            "update_ts": "2012-12-19T22:55:31Z"
+                        },
+                        {
+                            "avail": 2,
+                            "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=54811093",
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=54811093",
+                            "datecode": "8719",
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": false,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [],
+                            "sendrfq_url": null,
+                            "sku": "23127379",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "PriceLynx",
+                                "homepage_url": "http://www.pricelynx.com",
+                                "hq_country": "US",
+                                "id": 5061
+                            },
+                            "uid": 5481109355605,
+                            "update_ts": "2012-12-20T01:07:20Z"
+                        },
+                        {
+                            "avail": 603,
+                            "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=11323773",
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=11323773",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": false,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [],
+                            "sendrfq_url": null,
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Quest",
+                                "homepage_url": "http://www.questcomp.com",
+                                "hq_country": "US",
+                                "id": 2412
+                            },
+                            "uid": 1132377326359,
+                            "update_ts": "2012-12-19T22:01:49Z"
+                        },
+                        {
+                            "avail": 49,
+                            "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=47687032",
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=47687032",
+                            "datecode": null,
+                            "factory_lead_days": 5,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": false,
+                            "moq": 5,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": "Bulk",
+                            "prices": [
+                                [
+                                    5,
+                                    1.55,
+                                    "USD"
+                                ],
+                                [
+                                    25,
+                                    1.03,
+                                    "USD"
+                                ],
+                                [
+                                    50,
+                                    0.83,
+                                    "USD"
+                                ],
+                                [
+                                    100,
+                                    0.74,
+                                    "USD"
+                                ],
+                                [
+                                    500,
+                                    0.65,
+                                    "USD"
+                                ],
+                                [
+                                    1000,
+                                    0.63,
+                                    "USD"
+                                ]
+                            ],
+                            "sendrfq_url": null,
+                            "sku": "TI01-0001083",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Chip One Stop",
+                                "homepage_url": "http://chip1stop.com/",
+                                "hq_country": "JP",
+                                "id": 4089,
+                                "is_verified": false
+                            },
+                            "uid": 4768703208725,
+                            "update_ts": "2012-12-19T09:32:36Z"
+                        },
+                        {
+                            "avail": 1932,
+                            "buynow_url": "http://octopart-clicks.com/click/vptrack?vpid=48637089",
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=48637089",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": false,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [],
+                            "sendrfq_url": null,
+                            "sku": "308297",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "RS Components",
+                                "homepage_url": "http://www.rs-components.com",
+                                "hq_country": "GB",
+                                "id": 3261,
+                                "is_verified": false
+                            },
+                            "uid": 4863708924337,
+                            "update_ts": "2012-12-18T09:01:05Z"
+                        },
+                        {
+                            "avail": 96,
+                            "buynow_url": null,
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=21499956",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": false,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [],
+                            "sendrfq_url": null,
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "EDX",
+                                "homepage_url": "http://www.edxelectronics.com/",
+                                "hq_country": "US",
+                                "id": 2422
+                            },
+                            "uid": 2149995662400,
+                            "update_ts": "2012-12-19T14:42:57Z"
+                        },
+                        {
+                            "avail": -4,
+                            "buynow_url": null,
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=17337279",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": true,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [],
+                            "sendrfq_url": "http://octopart.com/rfq/generate?ppid=423153&vpid=17337279",
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Summit Electronics",
+                                "homepage_url": "http://www.summitelectronics.com/",
+                                "hq_country": "US",
+                                "id": 2442
+                            },
+                            "uid": 1733727959204,
+                            "update_ts": "2012-12-05T04:52:32Z"
+                        },
+                        {
+                            "avail": -4,
+                            "buynow_url": null,
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=45342591",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": true,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [],
+                            "sendrfq_url": "http://octopart.com/rfq/generate?ppid=423153&vpid=45342591",
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Icon Semiconductors",
+                                "homepage_url": "http://www.iconsemiconductors.com",
+                                "hq_country": "US",
+                                "id": 3269
+                            },
+                            "uid": 4534259153495,
+                            "update_ts": "2012-10-29T16:31:02Z"
+                        },
+                        {
+                            "avail": 22,
+                            "buynow_url": null,
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=22525987",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": false,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [],
+                            "sendrfq_url": null,
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "AED Electronics",
+                                "homepage_url": "http://www.aedelectronics.com",
+                                "hq_country": "US",
+                                "id": 3351
+                            },
+                            "uid": 2252598717514,
+                            "update_ts": "2012-12-19T16:13:25Z"
+                        },
+                        {
+                            "avail": -4,
+                            "buynow_url": null,
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=44900693",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": true,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [],
+                            "sendrfq_url": null,
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Touchstone Systems",
+                                "homepage_url": "http://www.touchstone-sys.com/",
+                                "hq_country": "US",
+                                "id": 3490
+                            },
+                            "uid": 4490069318404,
+                            "update_ts": "2012-12-18T16:22:03Z"
+                        },
+                        {
+                            "avail": 750,
+                            "buynow_url": null,
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=49096797",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": false,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [],
+                            "sendrfq_url": null,
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Select Technology",
+                                "homepage_url": "http://select-technology.net/",
+                                "hq_country": "US",
+                                "id": 3568
+                            },
+                            "uid": 4909679711057,
+                            "update_ts": "2012-05-08T16:29:35Z"
+                        },
+                        {
+                            "avail": -4,
+                            "buynow_url": null,
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=42664590",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": true,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [],
+                            "sendrfq_url": null,
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "ComponentsMAX",
+                                "homepage_url": "http://componentsmax.com/",
+                                "hq_country": "US",
+                                "id": 3860
+                            },
+                            "uid": 4266459003925,
+                            "update_ts": "2012-10-02T06:23:36Z"
+                        },
+                        {
+                            "avail": -4,
+                            "buynow_url": null,
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=46123939",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": true,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [],
+                            "sendrfq_url": null,
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Peribanu",
+                                "homepage_url": "http://peribanu.com",
+                                "hq_country": "IL",
+                                "id": 3958
+                            },
+                            "uid": 4612393925584,
+                            "update_ts": "2012-02-23T18:01:37Z"
+                        },
+                        {
+                            "avail": 42,
+                            "buynow_url": null,
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=46413588",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": false,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [],
+                            "sendrfq_url": "http://octopart.com/rfq/generate?ppid=423153&vpid=46413588",
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "4 Star Electronics",
+                                "homepage_url": "http://www.4starelectronics.com",
+                                "hq_country": "US",
+                                "id": 4025
+                            },
+                            "uid": 4641358828397,
+                            "update_ts": "2012-12-19T12:02:16Z"
+                        },
+                        {
+                            "avail": -4,
+                            "buynow_url": null,
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=53770281",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": true,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [],
+                            "sendrfq_url": null,
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "EE All Parts",
+                                "homepage_url": "http://eeallparts.com",
+                                "hq_country": "US",
+                                "id": 4869
+                            },
+                            "uid": 5377028139160,
+                            "update_ts": "2012-11-06T00:40:53Z"
+                        },
+                        {
+                            "avail": -4,
+                            "buynow_url": null,
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=55440281",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": true,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [],
+                            "sendrfq_url": null,
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Nexxon Circuits",
+                                "homepage_url": "http://www.nexxoncircuits.com",
+                                "hq_country": "US",
+                                "id": 5191
+                            },
+                            "uid": 5544028142384,
+                            "update_ts": "2012-09-26T20:53:00Z"
+                        },
+                        {
+                            "avail": -4,
+                            "buynow_url": null,
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=6765726",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": true,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [],
+                            "sendrfq_url": null,
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Sierra IC",
+                                "homepage_url": "http://www.sierraic.com",
+                                "hq_country": "US",
+                                "id": 2425
+                            },
+                            "uid": 676572608640,
+                            "update_ts": "2012-12-14T21:40:57Z"
+                        },
+                        {
+                            "avail": 15,
+                            "buynow_url": null,
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=16178152",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": false,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [
+                                [
+                                    1,
+                                    1.32,
+                                    "USD"
+                                ],
+                                [
+                                    25,
+                                    1.03,
+                                    "USD"
+                                ],
+                                [
+                                    50,
+                                    0.93,
+                                    "USD"
+                                ]
+                            ],
+                            "sendrfq_url": null,
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Master Distributors",
+                                "homepage_url": "http://masterdistributors.com/",
+                                "hq_country": "US",
+                                "id": 2591,
+                                "is_verified": false
+                            },
+                            "uid": 1617815202692,
+                            "update_ts": "2012-12-19T09:37:02Z"
+                        },
+                        {
+                            "avail": -4,
+                            "buynow_url": null,
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=36687084",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": true,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [],
+                            "sendrfq_url": null,
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Net Semi",
+                                "homepage_url": "http://netsemi.com/",
+                                "hq_country": "US",
+                                "id": 3590
+                            },
+                            "uid": 3668708402705,
+                            "update_ts": "2012-12-04T00:41:19Z"
+                        },
+                        {
+                            "avail": 17,
+                            "buynow_url": null,
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=10284417",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": false,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [],
+                            "sendrfq_url": "http://octopart.com/rfq/generate?ppid=423153&vpid=10284417",
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "Electronic Expediters",
+                                "homepage_url": "http://www.expediters.com/",
+                                "hq_country": "US",
+                                "id": 2436
+                            },
+                            "uid": 1028441707471,
+                            "update_ts": "2012-12-19T15:21:12Z"
+                        },
+                        {
+                            "avail": 936,
+                            "buynow_url": null,
+                            "clickthrough_url": "http://octopart-clicks.com/click/vptrack?vpid=12441686",
+                            "datecode": null,
+                            "factory_lead_days": null,
+                            "factory_pack_quantity": null,
+                            "is_authorized": false,
+                            "is_brokered": false,
+                            "moq": null,
+                            "on_order_eta": null,
+                            "on_order_quantity": null,
+                            "order_multiple": null,
+                            "packaging": null,
+                            "prices": [],
+                            "sendrfq_url": "http://octopart.com/rfq/generate?ppid=423153&vpid=12441686",
+                            "sku": "SN74LS240N",
+                            "supplier": {
+                                "__class__": "Brand",
+                                "displayname": "SMT Corp",
+                                "homepage_url": "http://smtcorp.com",
+                                "hq_country": "US",
+                                "id": 2461,
+                                "is_verified": false
+                            },
+                            "uid": 1244168662394,
+                            "update_ts": "2012-12-19T03:41:23Z"
+                        }
+                    ],
+                    "refer_id": null,
+                    "short_description": "Buffer/Line Driver 8-CH Inverting 3-ST Bipolar 20-Pin PDIP Tube",
+                    "specs": [
+                        {
+                            "attribute": {
+                                "__class__": "PartAttribute",
+                                "displayname": "Propagation Delay Max (tpd)",
+                                "fieldname": "propagation_delay_max",
+                                "metadata": {
+                                    "datatype": "float",
+                                    "unit": {
+                                        "name": "s",
+                                        "symbol": "s"
+                                    }
+                                },
+                                "type": "number"
+                            },
+                            "values": [
+                                {
+                                    "uncertainty_minus": null,
+                                    "uncertainty_plus": null,
+                                    "value": 1.8e-08
+                                }
+                            ]
+                        },
+                        {
+                            "attribute": {
+                                "__class__": "PartAttribute",
+                                "displayname": "Number of Outputs",
+                                "fieldname": "number_of_outputs",
+                                "metadata": {
+                                    "datatype": "integer",
+                                    "unit": null
+                                },
+                                "type": "number"
+                            },
+                            "values": [
+                                8
+                            ]
+                        },
+                        {
+                            "attribute": {
+                                "__class__": "PartAttribute",
+                                "displayname": "Number of Pins",
+                                "fieldname": "number_of_pins",
+                                "metadata": {
+                                    "datatype": "integer",
+                                    "unit": null
+                                },
+                                "type": "number"
+                            },
+                            "values": [
+                                16
+                            ]
+                        },
+                        {
+                            "attribute": {
+                                "__class__": "PartAttribute",
+                                "displayname": "Supply Voltage (DC)",
+                                "fieldname": "supply_voltage_dc",
+                                "metadata": {
+                                    "datatype": "float",
+                                    "unit": {
+                                        "name": "V",
+                                        "symbol": "V"
+                                    }
+                                },
+                                "type": "number"
+                            },
+                            "values": [
+                                {
+                                    "max_uncertainty_minus": null,
+                                    "max_uncertainty_plus": null,
+                                    "max_value": 5.25,
+                                    "min_uncertainty_minus": null,
+                                    "min_uncertainty_plus": null,
+                                    "min_value": 4.75
+                                }
+                            ]
+                        },
+                        {
+                            "attribute": {
+                                "__class__": "PartAttribute",
+                                "displayname": "Lead-Free Status",
+                                "fieldname": "lead_free_status",
+                                "metadata": null,
+                                "type": "text"
+                            },
+                            "values": [
+                                "Lead Free"
+                            ]
+                        },
+                        {
+                            "attribute": {
+                                "__class__": "PartAttribute",
+                                "displayname": "Quiescent Current",
+                                "fieldname": "quiescent_current",
+                                "metadata": {
+                                    "datatype": "float",
+                                    "unit": {
+                                        "name": "A",
+                                        "symbol": "A"
+                                    }
+                                },
+                                "type": "number"
+                            },
+                            "values": [
+                                {
+                                    "uncertainty_minus": null,
+                                    "uncertainty_plus": null,
+                                    "value": 0.026
+                                }
+                            ]
+                        },
+                        {
+                            "attribute": {
+                                "__class__": "PartAttribute",
+                                "displayname": "Packaging",
+                                "fieldname": "packaging",
+                                "metadata": null,
+                                "type": "text"
+                            },
+                            "values": [
+                                "Tube"
+                            ]
+                        },
+                        {
+                            "attribute": {
+                                "__class__": "PartAttribute",
+                                "displayname": "Case / Package / Footprint",
+                                "fieldname": "case_package",
+                                "metadata": null,
+                                "type": "text"
+                            },
+                            "values": [
+                                "DIP-20"
+                            ]
+                        },
+                        {
+                            "attribute": {
+                                "__class__": "PartAttribute",
+                                "displayname": "Voltage Nodes",
+                                "fieldname": "voltage_nodes",
+                                "metadata": {
+                                    "datatype": "float",
+                                    "unit": {
+                                        "name": "V",
+                                        "symbol": "V"
+                                    }
+                                },
+                                "type": "number"
+                            },
+                            "values": [
+                                {
+                                    "uncertainty_minus": null,
+                                    "uncertainty_plus": null,
+                                    "value": 5.0
+                                }
+                            ]
+                        },
+                        {
+                            "attribute": {
+                                "__class__": "PartAttribute",
+                                "displayname": "Number of Circuits",
+                                "fieldname": "number_of_circuits",
+                                "metadata": {
+                                    "datatype": "integer",
+                                    "unit": null
+                                },
+                                "type": "number"
+                            },
+                            "values": [
+                                8
+                            ]
+                        },
+                        {
+                            "attribute": {
+                                "__class__": "PartAttribute",
+                                "displayname": "Lifecycle Status",
+                                "fieldname": "lifecycle_status",
+                                "metadata": null,
+                                "type": "text"
+                            },
+                            "values": [
+                                "Active"
+                            ]
+                        },
+                        {
+                            "attribute": {
+                                "__class__": "PartAttribute",
+                                "displayname": "Mounting Type",
+                                "fieldname": "mounting_type",
+                                "metadata": null,
+                                "type": "text"
+                            },
+                            "values": [
+                                "Through Hole"
+                            ]
+                        },
+                        {
+                            "attribute": {
+                                "__class__": "PartAttribute",
+                                "displayname": "Output Current Drive",
+                                "fieldname": "output_current_drive",
+                                "metadata": {
+                                    "datatype": "float",
+                                    "unit": {
+                                        "name": "A",
+                                        "symbol": "A"
+                                    }
+                                },
+                                "type": "number"
+                            },
+                            "values": [
+                                {
+                                    "uncertainty_minus": null,
+                                    "uncertainty_plus": null,
+                                    "value": -0.000625
+                                }
+                            ]
+                        },
+                        {
+                            "attribute": {
+                                "__class__": "PartAttribute",
+                                "displayname": "RoHS",
+                                "fieldname": "rohs",
+                                "metadata": null,
+                                "type": "text"
+                            },
+                            "values": [
+                                "Compliant"
+                            ]
+                        }
+                    ],
+                    "uid": 42315325996
+                }
+            ],
+            "reference": null,
+            "status": null
+        }
+    ],
+    "time": 0.09238004684448242
+}

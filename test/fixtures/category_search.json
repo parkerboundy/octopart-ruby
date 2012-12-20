@@ -1,0 +1,263 @@
+{
+    "hits": 11,
+    "request": {
+        "ancestor_id": null,
+        "limit": 10,
+        "q": "resistor",
+        "start": 0
+    },
+    "results": [
+        {
+            "highlight": "",
+            "item": {
+                "__class__": "Category",
+                "ancestor_ids": [
+                    4161,
+                    4165
+                ],
+                "children_ids": [
+                    4174,
+                    4175,
+                    4176,
+                    4180,
+                    4189,
+                    5690
+                ],
+                "id": 4173,
+                "images": [
+                    {
+                        "url": "http://sigma.octopart.com/168954/image/resistors",
+                        "url_40px": "http://sigma.octopart.com/543065/image/resistors",
+                        "url_50px": "http://sigma.octopart.com/543066/image/resistors"
+                    }
+                ],
+                "nodename": "Resistors",
+                "num_parts": 917873,
+                "parent_id": 4165
+            }
+        },
+        {
+            "highlight": "",
+            "item": {
+                "__class__": "Category",
+                "ancestor_ids": [
+                    4161,
+                    4408,
+                    4472,
+                    4482
+                ],
+                "children_ids": [],
+                "id": 4485,
+                "images": [
+                    {
+                        "url": "http://sigma.octopart.com/169512/image/photoresistors-%2528light-dependant-resistors%2529",
+                        "url_40px": "http://sigma.octopart.com/543578/image/photoresistors-%2528light-dependant-resistors%2529",
+                        "url_50px": "http://sigma.octopart.com/543579/image/photoresistors-%2528light-dependant-resistors%2529"
+                    }
+                ],
+                "nodename": "Photoresistors (Light Dependant Resistors)",
+                "num_parts": 66,
+                "parent_id": 4482
+            }
+        },
+        {
+            "highlight": "",
+            "item": {
+                "__class__": "Category",
+                "ancestor_ids": [
+                    4161,
+                    4165,
+                    4173
+                ],
+                "children_ids": [],
+                "id": 4174,
+                "images": [
+                    {
+                        "url": "http://sigma.octopart.com/168957/image/single-components",
+                        "url_40px": "http://sigma.octopart.com/543050/image/single-components",
+                        "url_50px": "http://sigma.octopart.com/543051/image/single-components"
+                    }
+                ],
+                "nodename": "Single Components",
+                "num_parts": 763778,
+                "parent_id": 4173
+            }
+        },
+        {
+            "highlight": "",
+            "item": {
+                "__class__": "Category",
+                "ancestor_ids": [
+                    4161,
+                    4165,
+                    4173
+                ],
+                "children_ids": [],
+                "id": 4175,
+                "images": [
+                    {
+                        "url": "http://sigma.octopart.com/168960/image/arrays",
+                        "url_40px": "http://sigma.octopart.com/543068/image/arrays",
+                        "url_50px": "http://sigma.octopart.com/543069/image/arrays"
+                    }
+                ],
+                "nodename": "Arrays",
+                "num_parts": 17536,
+                "parent_id": 4173
+            }
+        },
+        {
+            "highlight": "",
+            "item": {
+                "__class__": "Category",
+                "ancestor_ids": [
+                    4161,
+                    4165,
+                    4173,
+                    4180
+                ],
+                "children_ids": [],
+                "id": 4181,
+                "images": [
+                    {
+                        "url": "http://sigma.octopart.com/168969/image/potentiometers",
+                        "url_40px": "http://sigma.octopart.com/543077/image/potentiometers",
+                        "url_50px": "http://sigma.octopart.com/543078/image/potentiometers"
+                    }
+                ],
+                "nodename": "Potentiometers",
+                "num_parts": 35870,
+                "parent_id": 4180
+            }
+        },
+        {
+            "highlight": "",
+            "item": {
+                "__class__": "Category",
+                "ancestor_ids": [
+                    4161,
+                    4165,
+                    4173
+                ],
+                "children_ids": [
+                    4181,
+                    4182
+                ],
+                "id": 4180,
+                "images": [
+                    {
+                        "url": "http://sigma.octopart.com/168966/image/potentiometers-and-accessories",
+                        "url_40px": "http://sigma.octopart.com/543074/image/potentiometers-and-accessories",
+                        "url_50px": "http://sigma.octopart.com/543075/image/potentiometers-and-accessories"
+                    }
+                ],
+                "nodename": "Potentiometers and Accessories",
+                "num_parts": 36086,
+                "parent_id": 4173
+            }
+        },
+        {
+            "highlight": "",
+            "item": {
+                "__class__": "Category",
+                "ancestor_ids": [
+                    4161
+                ],
+                "children_ids": [
+                    4166,
+                    4173,
+                    4190,
+                    4196,
+                    4197,
+                    4198,
+                    4199,
+                    4204,
+                    4205
+                ],
+                "id": 4165,
+                "images": [
+                    {
+                        "url": "http://sigma.octopart.com/168939/image/passive-components",
+                        "url_40px": "http://sigma.octopart.com/543050/image/passive-components",
+                        "url_50px": "http://sigma.octopart.com/543051/image/passive-components"
+                    }
+                ],
+                "nodename": "Passive Components",
+                "num_parts": 2303255,
+                "parent_id": 4161
+            }
+        },
+        {
+            "highlight": "",
+            "item": {
+                "__class__": "Category",
+                "ancestor_ids": [
+                    4161,
+                    4165,
+                    4173
+                ],
+                "children_ids": [],
+                "id": 4189,
+                "images": [
+                    {
+                        "url": "http://sigma.octopart.com/168972/image/thermistors",
+                        "url_40px": "http://sigma.octopart.com/543080/image/thermistors",
+                        "url_50px": "http://sigma.octopart.com/543081/image/thermistors"
+                    }
+                ],
+                "nodename": "Thermistors",
+                "num_parts": 6806,
+                "parent_id": 4173
+            }
+        },
+        {
+            "highlight": "",
+            "item": {
+                "__class__": "Category",
+                "ancestor_ids": [
+                    4161,
+                    4780,
+                    4781,
+                    4801
+                ],
+                "children_ids": [],
+                "id": 4802,
+                "images": [
+                    {
+                        "url": "http://sigma.octopart.com/170213/image/thermistors",
+                        "url_40px": "http://sigma.octopart.com/543080/image/thermistors",
+                        "url_50px": "http://sigma.octopart.com/543081/image/thermistors"
+                    }
+                ],
+                "nodename": "Thermistors",
+                "num_parts": 6761,
+                "parent_id": 4801
+            }
+        },
+        {
+            "highlight": "",
+            "item": {
+                "__class__": "Category",
+                "ancestor_ids": [
+                    4161,
+                    4780
+                ],
+                "children_ids": [
+                    4782,
+                    4801
+                ],
+                "id": 4781,
+                "images": [
+                    {
+                        "url": "http://sigma.octopart.com/170165/image/temperature-control-and-regulation",
+                        "url_40px": "http://sigma.octopart.com/544116/image/temperature-control-and-regulation",
+                        "url_50px": "http://sigma.octopart.com/544117/image/temperature-control-and-regulation"
+                    }
+                ],
+                "nodename": "Temperature Control and Regulation",
+                "num_parts": 17421,
+                "parent_id": 4780
+            }
+        }
+    ]
+}

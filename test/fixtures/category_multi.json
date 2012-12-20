@@ -1,0 +1,83 @@
+[
+    {
+        "__class__": "Category",
+        "ancestor_ids": [
+            4161,
+            4165,
+            4173
+        ],
+        "children_ids": [],
+        "id": 4174,
+        "images": [
+            {
+                "url": "http://sigma.octopart.com/168957/image/single-components",
+                "url_40px": "http://sigma.octopart.com/543050/image/single-components",
+                "url_50px": "http://sigma.octopart.com/543051/image/single-components"
+            }
+        ],
+        "nodename": "Single Components",
+        "num_parts": 763778,
+        "parent_id": 4173
+    },
+    {
+        "__class__": "Category",
+        "ancestor_ids": [
+            4161
+        ],
+        "children_ids": [
+            4216,
+            4219,
+            4251,
+            4260,
+            4267,
+            4273,
+            4293,
+            4299,
+            4305,
+            4321,
+            4329,
+            4336,
+            5056,
+            5378,
+            5414,
+            5500,
+            5622
+        ],
+        "id": 4215,
+        "images": [
+            {
+                "url": "http://sigma.octopart.com/169038/image/semiconductors-and-actives",
+                "url_40px": "http://sigma.octopart.com/543146/image/semiconductors-and-actives",
+                "url_50px": "http://sigma.octopart.com/543147/image/semiconductors-and-actives"
+            }
+        ],
+        "nodename": "Semiconductors and Actives",
+        "num_parts": 885654,
+        "parent_id": 4161
+    },
+    {
+        "__class__": "Category",
+        "ancestor_ids": [
+            4161
+        ],
+        "children_ids": [
+            4781,
+            4809,
+            4850,
+            4878,
+            5092,
+            5510
+        ],
+        "id": 4780,
+        "images": [
+            {
+                "url": "http://sigma.octopart.com/170162/image/industrial-control",
+                "url_40px": "http://sigma.octopart.com/544113/image/industrial-control",
+                "url_50px": "http://sigma.octopart.com/544114/image/industrial-control"
+            }
+        ],
+        "nodename": "Industrial Control",
+        "num_parts": 232613,
+        "parent_id": 4161
+    }
+]
