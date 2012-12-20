@@ -49,7 +49,8 @@ module Octopart
       if id.is_a? Array
         categories(id)
       else
-        self.class.get('/categories/get', :query => {:id => id, :apikey => @api_key}).parsed_response
+        response = self.class.get('/categories/get', :query => {:id => id, :apikey => @api_key})
+        validate_response(response)
       end
     end
     
@@ -66,7 +67,8 @@ module Octopart
     # Returns a category hash
     def categories(ids)
       raise(ArgumentError, 'ids must be an array') unless ids.is_a?Array
-      self.class.get('/categories/get_multi', :query => {:ids => "[#{ids.join(",")}]", :apikey => @api_key}).parsed_response
+      response = self.class.get('/categories/get_multi', :query => {:ids => "[#{ids.join(",")}]", :apikey => @api_key})
+      validate_response(response)
     end
     
     # Public: Execute search over category objects
@@ -83,7 +85,8 @@ module Octopart
     # Returns a category hash
     def search_categories(query, start=0, limit=10)
       raise(ArgumentError, 'query must be a string > 2 characters and start/limit must be < 100') unless (query.is_a?(String) && query.length > 2 && start.between?(0, 100) &&limit.between?(0,100))    
-      self.class.get('/categories/search', :query => {:q => query, :start => start, :limit => limit, :apikey => @api_key}).parsed_response
+      response = self.class.get('/categories/search', :query => {:q => query, :start => start, :limit => limit, :apikey => @api_key})
+      validate_response(response)
     end
     
     # Public: Fetch a part object by its id
@@ -100,7 +103,8 @@ module Octopart
       if uid.is_a? Array
         parts(uid)
       else
-        self.class.get('/parts/get', :query => {:uid => uid, :apikey => @api_key}).parsed_response
+        response = self.class.get('/parts/get', :query => {:uid => uid, :apikey => @api_key})
+        validate_response(response)
       end
     end
     
@@ -116,7 +120,8 @@ module Octopart
     # Returns a part hash
     def parts(uids)
       raise(ArgumentError, 'uids must be an array') unless uids.is_a?Array
-      self.class.get('/parts/get_multi', :query => {:uids => "[#{uids.join(",")}]", :apikey => @api_key}).parsed_response
+      response = self.class.get('/parts/get_multi', :query => {:uids => "[#{uids.join(",")}]", :apikey => @api_key})
+      validate_response(response)
     end
      
     # Public: Execute search over part objects
@@ -139,7 +144,8 @@ module Octopart
     # Returns a part hash
     def search_parts(query, start=0, limit=10)
       raise(ArgumentError, 'query must be a string > 2 characters, start < 1000, and limit must be < 100') unless (query.is_a?(String) && query.length > 2 && start.between?(0, 1000) &&limit.between?(0,100))
-      self.class.get('/parts/search', :query => {:q => query, :start => start, :limit => limit, :apikey => @api_key}).parsed_response
+      response = self.class.get('/parts/search', :query => {:q => query, :start => start, :limit => limit, :apikey => @api_key})
+      validate_response(response)
     end
      
     # Public: Suggest a part search query string
@@ -158,7 +164,7 @@ module Octopart
     # Returns a part hash
     def suggest_parts(query, limit=5)
       raise(ArgumentError, 'query must be a string > 2 characters, and limit must be < 10') unless (query.is_a?(String) && query.length > 2 && limit.between?(0,10))
-      self.class.get('/parts/suggest', :query => {:q => query.split(' ').join('+'), :limit => limit, :apikey => @api_key}).parsed_response
+      response = self.class.get('/parts/suggest', :query => {:q => query.split(' ').join('+'), :limit => limit, :apikey => @api_key})
     end
      
     # Public: Match (manufacturer,mpn) to part uids
@@ -173,7 +179,8 @@ module Octopart
     #
     # Returns a part hash
     def match_part(manufacturer_name, mpn)
-      self.class.get('/parts/match', :query => {:manufacturer_name => manufacturer_name, :mpn => mpn, :apikey => @api_key}).parsed_response
+      response = self.class.get('/parts/match', :query => {:manufacturer_name => manufacturer_name, :mpn => mpn, :apikey => @api_key})
+      validate_response(response)
     end
     
     # Public: Helper method for  match_part(manufacturer,mpn)
@@ -205,7 +212,8 @@ module Octopart
       if fieldname.is_a? Array
           part_attributes(fieldname)
       else
-        self.class.get('/partattributes/get', :query => {:fieldname => fieldname, :apikey => @api_key}).parsed_response
+        response = self.class.get('/partattributes/get', :query => {:fieldname => fieldname, :apikey => @api_key})
+        validate_response(response)
       end
     end
     
@@ -221,7 +229,8 @@ module Octopart
     # Returns a partattribute hash
     def part_attributes(fieldnames)
       raise(ArgumentError, 'fieldnames must be an array') unless fieldnames.is_a?Array
-      self.class.get('/partattributes/get_multi', :query => {:fieldnames => "["+fieldnames.map{|v| "\"#{v}\""}.join(',')+"]", :apikey => @api_key}).parsed_response
+      response = self.class.get('/partattributes/get_multi', :query => {:fieldnames => "["+fieldnames.map{|v| "\"#{v}\""}.join(',')+"]", :apikey => @api_key})
+      validate_response(response)
     end
      
     # Public: Match lines of a BOM to parts
@@ -245,7 +254,8 @@ module Octopart
     # Returns a match hash
     def bom_match(lines)
       raise(ArgumentError, 'lines must be a hash') unless lines.is_a?(::Hash)
-      self.class.get('/bom/match', :query => {:lines => "[{"+lines.map{|k,v| "\"#{k}\":\"#{v}\""}.join(',')+"}]", :apikey => @api_key}).parsed_response
+      response = self.class.get('/bom/match', :query => {:lines => "[{"+lines.map{|k,v| "\"#{k}\":\"#{v}\""}.join(',')+"}]", :apikey => @api_key})
+      validate_response(response)
     end
     
     # Public: Helper method for searches
@@ -277,6 +287,12 @@ module Octopart
         raise(ArgumentError, "type must be either 'parts' or 'categories'")
       end
     end
+    
+    protected
+    
+      def validate_response(response)
+        response.code == 200 ? response.parsed_response : raise(APIResponseError, response.code)
+      end
     
   end
 
