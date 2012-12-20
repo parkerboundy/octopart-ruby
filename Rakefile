@@ -13,15 +13,13 @@ require 'rake'
 
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
-  # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
   gem.name = "octopart-ruby"
   gem.homepage = "http://github.com/parkerboundy/octopart-ruby"
   gem.license = "MIT"
   gem.summary = "Ruby wrapper for the Octopart API"
   gem.description = "Ruby wrapper for the Octopart API"
   gem.email = "parkerboundy@gmail.com"
-  gem.authors = ["Parker Boundy"]
-  # dependencies defined in Gemfile
+  gem.authors = ["Parker Boundy"]  
 end
 Jeweler::RubygemsDotOrgTasks.new
 
