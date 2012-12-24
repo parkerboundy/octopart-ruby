@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = "octopart-ruby"
-  s.version = "0.1.1"
+  s.version = "0.1.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Parker Boundy"]
-  s.date = "2012-12-20"
+  s.date = "2012-12-24"
   s.description = "Ruby wrapper for the Octopart API"
   s.email = "parkerboundy@gmail.com"
   s.extra_rdoc_files = [
@@ -18,6 +18,7 @@ Gem::Specification.new do |s|
   ]
   s.files = [
     ".document",
+    "CHANGELOG.md",
     "Gemfile",
     "Gemfile.lock",
     "LICENSE.txt",
@@ -27,6 +28,7 @@ Gem::Specification.new do |s|
     "examples/example.rb",
     "lib/octopart-ruby.rb",
     "lib/octopart/client.rb",
+    "lib/octopart/exceptions.rb",
     "octopart-ruby.gemspec",
     "test/fixtures/attribute.json",
     "test/fixtures/attribute_multi.json",
