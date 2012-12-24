@@ -7,7 +7,7 @@ class TestOctopartRuby < Test::Unit::TestCase
     should "require an api key" do
       Octopart.api_key = nil
       
-      assert_raise APIKeyNotSetError do
+      assert_raise Octopart::APIKeyNotSetError do
         Octopart::Client.new()
       end
     end
@@ -96,7 +96,7 @@ class TestOctopartRuby < Test::Unit::TestCase
     should "respond to error codes properly" do
       FakeWeb.register_uri(:get, "http://octopart.com/api/v2/categories/get?id=4174&apikey=123456789", :body => fixture_file("category.json"), :status => ["404", "Not Found"])
       
-      assert_raise APIResponseError do
+      assert_raise Octopart::APIResponseError do
         @client.category(4174)
       end
     end
@@ -173,7 +173,7 @@ class TestOctopartRuby < Test::Unit::TestCase
     should "respond to error codes properly" do
       FakeWeb.register_uri(:get, "http://octopart.com/api/v2/parts/get?uid=39619421&apikey=123456789", :body => fixture_file("part.json"), :status => ["404", "Not Found"])
       
-      assert_raise APIResponseError do
+      assert_raise Octopart::APIResponseError do
         @client.part(39619421)
       end
     end  
@@ -216,7 +216,7 @@ class TestOctopartRuby < Test::Unit::TestCase
     should "respond to error codes properly" do
       FakeWeb.register_uri(:get, "http://octopart.com/api/v2/partattributes/get?fieldname=capacitance&apikey=123456789", :body => fixture_file("attribute.json"), :status => ["404", "Not Found"])
       
-      assert_raise APIResponseError do
+      assert_raise Octopart::APIResponseError do
         @client.part_attribute('capacitance')
       end
     end
@@ -244,7 +244,7 @@ class TestOctopartRuby < Test::Unit::TestCase
     should "respond to error codes properly" do
       FakeWeb.register_uri(:get, "http://octopart.com/api/v2/bom/match?lines=%5B%7B%22mpn%22%3A%22SN74LS240N%22%2C%22manufacturer%22%3A%22Texas%20Instruments%22%7D%5D&apikey=123456789", :body => fixture_file("bom.json"), :status => ["404", "Not Found"])
       
-      assert_raise APIResponseError do
+      assert_raise Octopart::APIResponseError do
         @client.bom_match({"mpn" => "SN74LS240N", "manufacturer" => "Texas Instruments"})
       end
     end

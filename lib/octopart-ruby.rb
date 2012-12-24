@@ -1,11 +1,5 @@
 require 'httparty'
 
-# APIKeyNotSetError is called when a client is instantiated without an api_key
-class APIKeyNotSetError < StandardError; end
-
-# APIResponseError is called when an API request returns with a code other than 200
-class APIResponseError < StandardError; end
-
 module Octopart
   
   # api_key -  The API key to use
@@ -24,3 +18,4 @@ end
 directory = File.expand_path(File.dirname(__FILE__))
 
 require File.join(directory, 'octopart', 'client')
+require File.join(directory, 'octopart', 'exceptions')
